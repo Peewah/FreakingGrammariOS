@@ -1,0 +1,1634 @@
+{ "results": [
+	{
+        "createdAt": "2014-10-04T19:17:54.629Z",
+        "frase": "Mi carro está ____",
+        "objectId": "0421DNm0iB",
+        "respuestaBuena": "ahí",
+        "respuestaMala": "hay",
+        "updatedAt": "2014-10-04T19:18:08.156Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:08:03.907Z",
+        "frase": "Espero comprarlo ______ costo",
+        "objectId": "0aNcBiewRl",
+        "respuestaBuena": "a bajo",
+        "respuestaMala": "abajo",
+        "updatedAt": "2014-10-04T20:08:11.183Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:21:55.161Z",
+        "frase": "Mañana cumplo _____ años",
+        "objectId": "19BceDQjw3",
+        "respuestaBuena": "dieciséis",
+        "respuestaMala": "dieciseis",
+        "updatedAt": "2014-10-07T16:22:37.038Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:14:33.777Z",
+        "frase": "Lo hice ______ quise",
+        "objectId": "1RPUnkyc5g",
+        "respuestaBuena": "porque",
+        "respuestaMala": "por que",
+        "updatedAt": "2014-10-04T20:14:42.478Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:37:21.884Z",
+        "frase": "Creo que perdí el _____",
+        "objectId": "1ciXOO42JO",
+        "respuestaBuena": "examen",
+        "respuestaMala": "exámen",
+        "updatedAt": "2014-10-06T04:37:26.130Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:32:57.616Z",
+        "frase": "Me _____ en el artículo que leí ",
+        "objectId": "2UDjIg6xAg",
+        "respuestaBuena": "baso ",
+        "respuestaMala": "vaso",
+        "updatedAt": "2014-10-12T22:33:15.363Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:40:03.165Z",
+        "frase": "Él ____ todo lo que tenía",
+        "objectId": "2V11qzA2ww",
+        "respuestaBuena": "dio",
+        "respuestaMala": "dió",
+        "updatedAt": "2014-10-06T04:40:07.927Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:18:02.852Z",
+        "frase": "Últimamente todo son ________ entre nosotros",
+        "objectId": "2fJhfRIjlg",
+        "respuestaBuena": "sinsabores",
+        "respuestaMala": "sin sabores",
+        "updatedAt": "2014-10-04T20:18:07.355Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:17:41.362Z",
+        "frase": "Parecía una película ______",
+        "objectId": "3Jbx368VIM",
+        "respuestaBuena": "sin fin",
+        "respuestaMala": "sinfín",
+        "updatedAt": "2014-10-04T20:17:50.505Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:20:41.501Z",
+        "frase": "Trabajo incesantemente _____ quiero progresar ",
+        "objectId": "3c4f9xF9mY",
+        "respuestaBuena": "porque",
+        "respuestaMala": "porqué",
+        "updatedAt": "2014-10-07T16:20:52.087Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:19:57.223Z",
+        "frase": "No quiero que ella _____",
+        "objectId": "3nYon1qDkU",
+        "respuestaBuena": "vaya",
+        "respuestaMala": "valla",
+        "updatedAt": "2014-10-04T19:20:02.527Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:09:05.021Z",
+        "frase": "Fueron sentenciados _______ muy largas",
+        "objectId": "4QErwJsscr",
+        "respuestaBuena": "a penas",
+        "respuestaMala": "apenas",
+        "updatedAt": "2014-10-04T20:09:09.556Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:15:41.853Z",
+        "frase": "Pidamos _____",
+        "objectId": "4Wgnr2bP77",
+        "respuestaBuena": "pizza",
+        "respuestaMala": "picza",
+        "updatedAt": "2014-10-12T22:15:57.066Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:10:20.777Z",
+        "frase": "Ella debe empezar a integrarse _____ un grupo",
+        "objectId": "4lD2eTWA3s",
+        "respuestaBuena": "en",
+        "respuestaMala": "con",
+        "updatedAt": "2014-10-07T16:10:29.111Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:19:20.007Z",
+        "frase": "Ella siempre _____ la forma de solucionar los problemas",
+        "objectId": "6PmnjdDn0L",
+        "respuestaBuena": "halla",
+        "respuestaMala": "haya",
+        "updatedAt": "2014-10-04T19:19:26.482Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:39:03.275Z",
+        "frase": "Tenía tanto miedo que _____",
+        "objectId": "6Z0cExccRj",
+        "respuestaBuena": "huí",
+        "respuestaMala": "hui",
+        "updatedAt": "2014-10-07T16:39:10.884Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:14:04.204Z",
+        "frase": "Me llevaría ______ terminar los ejercicios",
+        "objectId": "6ZppM7Fs8h",
+        "respuestaBuena": "medio día",
+        "respuestaMala": "mediodía",
+        "updatedAt": "2014-10-04T20:14:11.596Z"
+    },
+	{
+        "createdAt": "2014-10-08T13:44:50.568Z",
+        "frase": "_____ o indigente",
+        "objectId": "6n7JhwAsWF",
+        "respuestaBuena": "Mendigo",
+        "respuestaMala": "Méndigo",
+        "updatedAt": "2014-10-08T13:44:56.005Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:06:05.111Z",
+        "frase": "_____ de aquí ",
+        "objectId": "6otZlbBy7K",
+        "respuestaBuena": "Vámonos ",
+        "respuestaMala": "Vámosnos",
+        "updatedAt": "2014-10-12T22:06:17.075Z"
+    },
+	{
+        "createdAt": "2014-10-06T12:47:12.682Z",
+        "frase": "_____ muchos asistentes al concierto",
+        "objectId": "70J7FGnJNj",
+        "respuestaBuena": "Hubo",
+        "respuestaMala": "Hubieron",
+        "updatedAt": "2014-10-06T12:47:17.855Z"
+    },
+	{
+        "createdAt": "2014-10-12T21:34:26.292Z",
+        "frase": "La sopa sabe mejor con _____ ",
+        "objectId": "78xHIgJMSk",
+        "respuestaBuena": "especias ",
+        "respuestaMala": "especies ",
+        "updatedAt": "2014-10-12T21:34:34.785Z"
+    },
+	{
+        "createdAt": "2014-10-07T20:56:14.381Z",
+        "frase": "El toro _____",
+        "objectId": "7xZ2CL3zAJ",
+        "respuestaBuena": "brama ",
+        "respuestaMala": "aulla",
+        "updatedAt": "2014-10-07T20:56:23.460Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:41:39.295Z",
+        "frase": "Twitter permite 140 _______",
+        "objectId": "8WPqlrbAcK",
+        "respuestaBuena": "caracteres",
+        "respuestaMala": "carácteres",
+        "updatedAt": "2014-10-06T04:41:45.081Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:10:02.220Z",
+        "frase": "El presidente ha conseguido muchos _______",
+        "objectId": "96rE9v1Z5J",
+        "respuestaBuena": "bienes",
+        "respuestaMala": "vienes",
+        "updatedAt": "2014-10-04T20:10:14.789Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:08:34.836Z",
+        "frase": "El costo subió ______ de los dos millones de dólares",
+        "objectId": "9ZfXpU3Qp4",
+        "respuestaBuena": "a cerca",
+        "respuestaMala": "acerca",
+        "updatedAt": "2014-10-04T20:08:40.721Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:45:30.213Z",
+        "frase": "Es un precio ______",
+        "objectId": "9dkU2NByot",
+        "respuestaBuena": "asequible",
+        "respuestaMala": "acsequible",
+        "updatedAt": "2014-10-06T04:45:36.695Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:07:35.952Z",
+        "frase": "Ella ____ venido a mi casa",
+        "objectId": "9pYyXuMJKT",
+        "respuestaBuena": "ha",
+        "respuestaMala": "a",
+        "updatedAt": "2014-10-04T20:07:39.945Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:18:23.337Z",
+        "frase": "Pon en práctica el _____ de tu madre",
+        "objectId": "A0XMnuvGX9",
+        "respuestaBuena": "consejo ",
+        "respuestaMala": "concejo",
+        "updatedAt": "2014-10-12T22:20:06.534Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:22:20.277Z",
+        "frase": "Igualmente debo ______ la prueba",
+        "objectId": "AGky52hLf7",
+        "respuestaBuena": "hacer",
+        "respuestaMala": "a ser",
+        "updatedAt": "2014-10-04T19:22:31.230Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:15:10.475Z",
+        "frase": "Ese hombre es _____",
+        "objectId": "AhLxgYFaJy",
+        "respuestaBuena": "cosmopolita",
+        "respuestaMala": "cosmopolito",
+        "updatedAt": "2014-10-07T16:15:20.582Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:41:26.570Z",
+        "frase": "¿Por qué te _____?",
+        "objectId": "BKJy6v26tw",
+        "respuestaBuena": "fuiste",
+        "respuestaMala": "fuistes",
+        "updatedAt": "2014-10-12T22:41:34.453Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:49:01.663Z",
+        "frase": "Ella se ______ del dolor",
+        "objectId": "BNl22IMzcx",
+        "respuestaBuena": "resiente",
+        "respuestaMala": "reciente",
+        "updatedAt": "2014-10-06T04:49:05.762Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:43:37.867Z",
+        "frase": "El edificio fue ______",
+        "objectId": "C1C8C0HA3k",
+        "respuestaBuena": "construido",
+        "respuestaMala": "construído",
+        "updatedAt": "2014-10-06T04:43:44.357Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:23:48.172Z",
+        "frase": "Conecta el _____",
+        "objectId": "C1JILscjno",
+        "respuestaBuena": "enchufe",
+        "respuestaMala": "enchufle",
+        "updatedAt": "2014-10-12T22:24:00.132Z"
+    },
+	{
+        "createdAt": "2014-10-06T13:47:09.556Z",
+        "frase": "____ lo que pueda",
+        "objectId": "CcBXxAaL3F",
+        "respuestaBuena": "Haré",
+        "respuestaMala": "Aré",
+        "updatedAt": "2014-10-06T13:47:15.808Z"
+    },
+	{
+        "createdAt": "2014-10-07T19:50:46.424Z",
+        "frase": "El vigilante _____ la puerta por las mañanas",
+        "objectId": "CxT7MKMDFo",
+        "respuestaBuena": "abría",
+        "respuestaMala": "habría",
+        "updatedAt": "2014-10-07T19:50:59.207Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:07:16.687Z",
+        "frase": "Voy ____ realizar un viaje",
+        "objectId": "D6De9h0xlk",
+        "respuestaBuena": "a",
+        "respuestaMala": "ha",
+        "updatedAt": "2014-10-04T20:07:27.823Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:09:42.533Z",
+        "frase": "Tiene demasiados ______ en su cuerpo",
+        "objectId": "DKMRIdT5yI",
+        "respuestaBuena": "vellos",
+        "respuestaMala": "bellos",
+        "updatedAt": "2014-10-04T20:09:49.098Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:40:31.743Z",
+        "frase": "Por favor baje el _____",
+        "objectId": "EypK0GIkWu",
+        "respuestaBuena": "volumen",
+        "respuestaMala": "volúmen",
+        "updatedAt": "2014-10-06T04:40:39.633Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:51:58.114Z",
+        "frase": "Está en la edad _____",
+        "objectId": "F4v8dSBNNg",
+        "respuestaBuena": "núbil",
+        "respuestaMala": "núvil",
+        "updatedAt": "2014-10-06T04:52:02.865Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:11:42.749Z",
+        "frase": "Rema en un _____ muy pequeño",
+        "objectId": "F5km3WIQeY",
+        "respuestaBuena": "bote",
+        "respuestaMala": "vote",
+        "updatedAt": "2014-10-04T20:11:48.320Z"
+    },
+	{
+        "createdAt": "2014-10-07T20:42:31.188Z",
+        "frase": "La _____ de espacio les hacía vivir con gran estrechez",
+        "objectId": "F91kbQEW6i",
+        "respuestaBuena": "escasez",
+        "respuestaMala": "escacez",
+        "updatedAt": "2014-10-07T20:42:55.354Z"
+    },
+	{
+        "createdAt": "2014-10-03T16:30:26.030Z",
+        "frase": "El _____ me hizo ganar este juego",
+        "objectId": "FZuIRuXZCI",
+        "respuestaBuena": "azar",
+        "respuestaMala": "asar",
+        "updatedAt": "2014-10-03T16:30:30.222Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:38:55.251Z",
+        "frase": "El _____ es de colores blanco y negro ",
+        "objectId": "Fg5nGPxdhj",
+        "respuestaBuena": "pingüino",
+        "respuestaMala": "pinguino",
+        "updatedAt": "2014-10-12T22:40:01.604Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:16:38.854Z",
+        "frase": "Daniel pertenece al _____ estudiantil",
+        "objectId": "GS54KAck2N",
+        "respuestaBuena": "consejo",
+        "respuestaMala": "concejo",
+        "updatedAt": "2014-10-15T12:50:10.013Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:45:57.157Z",
+        "frase": "Solo quiere _____ dolor ",
+        "objectId": "GcnUgXNdsc",
+        "respuestaBuena": "infligir",
+        "respuestaMala": "infringir",
+        "updatedAt": "2014-10-12T22:46:43.062Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:09:25.301Z",
+        "frase": "Se vio _______ en el espejo",
+        "objectId": "H0CWAOfm0t",
+        "respuestaBuena": "a sí mismo",
+        "respuestaMala": "así mismo",
+        "updatedAt": "2014-10-04T20:09:34.930Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:12:34.274Z",
+        "frase": "_____ todo lo que quiera, solo encontrará roca",
+        "objectId": "HCNd3W9FmV",
+        "respuestaBuena": "Cave",
+        "respuestaMala": "Cabe",
+        "updatedAt": "2014-10-04T20:12:41.275Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:44:23.698Z",
+        "frase": "Tienes una hermosa _____",
+        "objectId": "HjwYolUtkA",
+        "respuestaBuena": "voz ",
+        "respuestaMala": "vos ",
+        "updatedAt": "2014-10-12T22:44:30.615Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:48:28.495Z",
+        "frase": "Entrégamelo a _____",
+        "objectId": "Hm47DLWRIc",
+        "respuestaBuena": "mí",
+        "respuestaMala": "mi",
+        "updatedAt": "2014-10-07T16:48:36.249Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:07:00.251Z",
+        "frase": "Eso se debió ______",
+        "objectId": "I9q5meQVGc",
+        "respuestaBuena": "prever",
+        "respuestaMala": "preveer",
+        "updatedAt": "2014-10-04T20:07:09.269Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:43:52.543Z",
+        "frase": "_____ fuiste el culpable",
+        "objectId": "IRpxbWkCWz",
+        "respuestaBuena": "Vos ",
+        "respuestaMala": "Voz",
+        "updatedAt": "2014-10-12T22:44:00.940Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:42:04.942Z",
+        "frase": "Ella tiene un ______ muy fuerte",
+        "objectId": "JG6KBGZaYz",
+        "respuestaBuena": "carácter",
+        "respuestaMala": "caracter",
+        "updatedAt": "2014-10-06T04:42:10.839Z"
+    },
+	{
+        "createdAt": "2014-10-12T21:29:24.493Z",
+        "frase": "Voy a _____ un perro ",
+        "objectId": "JXW0Bws2bd",
+        "respuestaBuena": "adoptar",
+        "respuestaMala": "adaptar",
+        "updatedAt": "2014-10-12T21:29:33.284Z"
+    },
+	{
+        "createdAt": "2014-10-12T21:24:07.520Z",
+        "frase": "El señor se apoya con su _____",
+        "objectId": "Jw2BpWtWAS",
+        "respuestaBuena": "cayado ",
+        "respuestaMala": "callado ",
+        "updatedAt": "2014-10-12T21:24:19.964Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:46:24.233Z",
+        "frase": "El producto no es ______",
+        "objectId": "JzndwpGm6W",
+        "respuestaBuena": "asequible",
+        "respuestaMala": "axequible",
+        "updatedAt": "2014-10-06T04:46:45.118Z"
+    },
+	{
+        "createdAt": "2014-10-07T17:03:22.159Z",
+        "frase": "Quiero conocer los _____ de la danza árabe",
+        "objectId": "KTDTzGMiqI",
+        "respuestaBuena": "orígenes",
+        "respuestaMala": "origenes",
+        "updatedAt": "2014-10-07T17:03:34.176Z"
+    },
+	{
+        "createdAt": "2014-10-12T21:31:13.370Z",
+        "frase": "No me puedo  _____ al clima frío ",
+        "objectId": "KXyEfhjWuJ",
+        "respuestaBuena": "adaptar ",
+        "respuestaMala": "adoptar",
+        "updatedAt": "2014-10-12T21:31:21.439Z"
+    },
+	{
+        "createdAt": "2014-10-06T13:47:31.956Z",
+        "frase": "Ven ____",
+        "objectId": "Ld3JB5qG1K",
+        "respuestaBuena": "acá",
+        "respuestaMala": "aca",
+        "updatedAt": "2014-10-06T13:47:36.877Z"
+    },
+	{
+        "createdAt": "2014-10-07T15:57:47.916Z",
+        "frase": "El _____ es una tendencia de la pintura surgida en EE.UU en los años 60.",
+        "objectId": "LlJl3ySZPk",
+        "respuestaBuena": "Hiperrealismo",
+        "respuestaMala": "Hiperealismo",
+        "updatedAt": "2014-10-07T15:59:12.561Z"
+    },
+	{
+        "createdAt": "2014-10-12T21:36:18.409Z",
+        "frase": "El canguro es una _____  en vía de extinción ",
+        "objectId": "LvRrYZ0RqU",
+        "respuestaBuena": "especie",
+        "respuestaMala": "especia ",
+        "updatedAt": "2014-10-12T21:36:38.682Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:50:21.220Z",
+        "frase": "La ______ no lo deja progresar",
+        "objectId": "LziALpwsO2",
+        "respuestaBuena": "zozobra",
+        "respuestaMala": "sosobra",
+        "updatedAt": "2014-10-06T04:50:45.388Z"
+    },
+	{
+        "createdAt": "2014-10-07T20:14:42.420Z",
+        "frase": "El _____ se practica sobre una mesa rectangular",
+        "objectId": "MBgVGIMzJl",
+        "respuestaBuena": "billar ",
+        "respuestaMala": "villar",
+        "updatedAt": "2014-10-07T20:14:55.648Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:57:51.918Z",
+        "frase": "_____ es el responsable",
+        "objectId": "ME8iZ6zYs1",
+        "respuestaBuena": "Él",
+        "respuestaMala": "El",
+        "updatedAt": "2014-10-07T16:57:59.565Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:08:52.204Z",
+        "frase": "Ubica esos elementos ______",
+        "objectId": "MT4XO1NGCt",
+        "respuestaBuena": "aparte",
+        "respuestaMala": "a parte",
+        "updatedAt": "2014-10-04T20:08:57.198Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:09:01.882Z",
+        "frase": "Pronósticos _____",
+        "objectId": "N3AdulKvkd",
+        "respuestaBuena": "meteorológicos",
+        "respuestaMala": "metereológicos",
+        "updatedAt": "2014-10-07T16:09:18.780Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:15:11.468Z",
+        "frase": "No sé ______ lo hiciste",
+        "objectId": "NJidnHPpiL",
+        "respuestaBuena": "por qué",
+        "respuestaMala": "porqué",
+        "updatedAt": "2014-10-04T20:15:18.903Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:30:08.156Z",
+        "frase": "Es una persona bastante ______",
+        "objectId": "NTPdzgNcB7",
+        "respuestaBuena": "nefelibata",
+        "respuestaMala": "nefelivata",
+        "updatedAt": "2014-10-06T04:30:14.821Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:18:36.623Z",
+        "frase": "Ella lo compra, yo ______",
+        "objectId": "NZzK7yGP8r",
+        "respuestaBuena": "también",
+        "respuestaMala": "tan bien",
+        "updatedAt": "2014-10-04T20:18:43.276Z"
+    },
+	{
+        "createdAt": "2014-10-06T13:49:58.192Z",
+        "frase": "¿_____ resolver el problema?",
+        "objectId": "PQKJVrR6Ge",
+        "respuestaBuena": "Pudiste",
+        "respuestaMala": "Pudistes",
+        "updatedAt": "2014-10-06T13:50:02.857Z"
+    },
+	{
+        "createdAt": "2014-10-06T13:45:51.147Z",
+        "frase": "Yo _____ la olla por la manija",
+        "objectId": "QaqANg3ANu",
+        "respuestaBuena": "asgo",
+        "respuestaMala": "aso",
+        "updatedAt": "2014-10-06T13:46:02.367Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:23:21.026Z",
+        "frase": "Voy a _____ mi puesto a la anciana",
+        "objectId": "QwpM7mfiDM",
+        "respuestaBuena": "ceder",
+        "respuestaMala": "seder",
+        "updatedAt": "2014-10-07T16:23:28.556Z"
+    },
+	{
+        "createdAt": "2014-10-07T20:01:58.880Z",
+        "frase": "Yo _____ la leña con una cuerda",
+        "objectId": "R3YjGHdgEs",
+        "respuestaBuena": "ato",
+        "respuestaMala": "hato",
+        "updatedAt": "2014-10-07T20:02:05.357Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:41:00.319Z",
+        "frase": "Hay que definir el ______",
+        "objectId": "RbwKtsd6fd",
+        "respuestaBuena": "intervalo",
+        "respuestaMala": "intérvalo",
+        "updatedAt": "2014-10-06T04:41:06.511Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:35:06.324Z",
+        "frase": "Estoy en _____",
+        "objectId": "S16oRotp1p",
+        "respuestaBuena": "choque ",
+        "respuestaMala": "shock",
+        "updatedAt": "2014-10-12T22:35:13.246Z"
+    },
+	{
+        "createdAt": "2014-10-12T21:26:42.456Z",
+        "frase": "Me quiero _____ contigo",
+        "objectId": "Suhw4AGRYU",
+        "respuestaBuena": "casar",
+        "respuestaMala": "cazar",
+        "updatedAt": "2014-10-12T21:26:50.081Z"
+    },
+	{
+        "createdAt": "2014-10-07T20:27:14.006Z",
+        "frase": "La semana pasada estuve con _____",
+        "objectId": "TAWHyQc1cr",
+        "respuestaBuena": "tortícolis",
+        "respuestaMala": "tortículis",
+        "updatedAt": "2014-10-07T20:27:29.429Z"
+    },
+	{
+        "createdAt": "2014-10-07T17:00:18.677Z",
+        "frase": "Esa nota es _____ bemol",
+        "objectId": "TRcynywRgg",
+        "respuestaBuena": "si",
+        "respuestaMala": "sí",
+        "updatedAt": "2014-10-07T17:00:30.829Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:12:10.695Z",
+        "frase": "El auto no _____ en mi garaje",
+        "objectId": "Tu3rRv2akU",
+        "respuestaBuena": "cabe",
+        "respuestaMala": "cave",
+        "updatedAt": "2014-10-04T20:12:16.385Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:21:24.031Z",
+        "frase": "No me ha _____",
+        "objectId": "UCblAABAeU",
+        "respuestaBuena": "respondido ",
+        "respuestaMala": "respuesto",
+        "updatedAt": "2014-10-12T22:21:31.287Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:03:42.761Z",
+        "frase": "_____ lo que te digo o no te dejaré salir",
+        "objectId": "V9rWF5nxp3",
+        "respuestaBuena": "Haz",
+        "respuestaMala": "Has",
+        "updatedAt": "2014-10-04T20:03:47.134Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:04:12.705Z",
+        "frase": "Me encantaría tomarme un ______",
+        "objectId": "VXdIelTQop",
+        "respuestaBuena": "cafecito",
+        "respuestaMala": "cafesito",
+        "updatedAt": "2014-10-04T20:04:17.892Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:07:49.502Z",
+        "frase": "Me pareció verlo ______",
+        "objectId": "Vo4wBbGKiH",
+        "respuestaBuena": "abajo",
+        "respuestaMala": "a bajo",
+        "updatedAt": "2014-10-04T20:07:54.448Z"
+    },
+	{
+        "createdAt": "2014-10-06T13:46:54.854Z",
+        "frase": "____ lo que pude",
+        "objectId": "VygrDad0Cx",
+        "respuestaBuena": "Aré",
+        "respuestaMala": "Haré",
+        "updatedAt": "2014-10-06T13:47:00.522Z"
+    },
+	{
+        "createdAt": "2014-10-11T03:29:22.641Z",
+        "frase": "_____ 30 personas en el salón",
+        "objectId": "W1VhnTQ1De",
+        "respuestaBuena": "Había",
+        "respuestaMala": "Habían",
+        "updatedAt": "2014-10-11T03:29:22.641Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:13:15.028Z",
+        "frase": "Va _____ aquí para allá",
+        "objectId": "X7qnJO6jXx",
+        "respuestaBuena": "de",
+        "respuestaMala": "dé",
+        "updatedAt": "2014-10-07T16:13:24.074Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:10:53.454Z",
+        "frase": "No ______ durante las elecciones presidenciales",
+        "objectId": "XIyOPf9fUs",
+        "respuestaBuena": "votó",
+        "respuestaMala": "botó",
+        "updatedAt": "2014-10-04T20:11:01.905Z"
+    },
+	{
+        "createdAt": "2014-10-07T17:04:57.740Z",
+        "frase": "Ubica un punto en el _____",
+        "objectId": "XJJUiAFqRt",
+        "respuestaBuena": "origen",
+        "respuestaMala": "orígen",
+        "updatedAt": "2014-10-07T17:07:24.508Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:26:26.193Z",
+        "frase": "Un sueldo _____ mis necesidades básicas",
+        "objectId": "XJvcXQcbwm",
+        "respuestaBuena": "satisfaría",
+        "respuestaMala": "satisfacería",
+        "updatedAt": "2014-10-12T22:27:12.416Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:54:05.535Z",
+        "frase": "Nos vemos en mi _____",
+        "objectId": "XPwhaevABh",
+        "respuestaBuena": "casa",
+        "respuestaMala": "caza",
+        "updatedAt": "2014-10-12T22:54:11.069Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:13:47.121Z",
+        "frase": "Déjame hacer eso _______",
+        "objectId": "XRB4667AmT",
+        "respuestaBuena": "como quiera",
+        "respuestaMala": "comoquiera",
+        "updatedAt": "2014-10-04T20:13:54.510Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:14:19.136Z",
+        "frase": "Nos vemos en el almuerzo al ______",
+        "objectId": "XRCa0H6rLw",
+        "respuestaBuena": "mediodía",
+        "respuestaMala": "medio día",
+        "updatedAt": "2014-10-04T20:14:25.767Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:49:29.882Z",
+        "frase": "¿Dónde tienes _____ carro?",
+        "objectId": "Y4ZEUMZRtl",
+        "respuestaBuena": "tu ",
+        "respuestaMala": "tú",
+        "updatedAt": "2014-10-07T16:49:39.906Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:14:24.410Z",
+        "frase": "No me gustan las _____",
+        "objectId": "YZHRY5DBV8",
+        "respuestaBuena": "arvejas",
+        "respuestaMala": "arbejas",
+        "updatedAt": "2014-10-12T22:14:31.501Z"
+    },
+	{
+        "createdAt": "2014-10-03T16:33:54.464Z",
+        "frase": "Tengo un _____ en el pie",
+        "objectId": "ZGTyfJoViH",
+        "respuestaBuena": "callo",
+        "respuestaMala": "cayo",
+        "updatedAt": "2014-10-03T16:34:01.422Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:22:05.254Z",
+        "frase": "Hoy voy a comprar el ______ para el acueducto",
+        "objectId": "ZMPCNiaIF3",
+        "respuestaBuena": "tubo",
+        "respuestaMala": "tuvo",
+        "updatedAt": "2014-10-04T19:22:12.055Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:08:25.476Z",
+        "frase": "Estaba _____ cerca ayer por la tarde",
+        "objectId": "Znz0sSfFLs",
+        "respuestaBuena": "más",
+        "respuestaMala": "mas",
+        "updatedAt": "2014-10-07T16:08:32.354Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:27:49.616Z",
+        "frase": "¡Qué bien sabe este _____!",
+        "objectId": "aBrePW3QRF",
+        "respuestaBuena": "guiso ",
+        "respuestaMala": "guizo",
+        "updatedAt": "2014-10-12T22:27:56.539Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:38:00.233Z",
+        "frase": "Me salió un _____ en la piel",
+        "objectId": "aTKlUsyuhg",
+        "respuestaBuena": "absceso",
+        "respuestaMala": "abseso",
+        "updatedAt": "2014-10-07T16:38:14.692Z"
+    },
+	{
+        "createdAt": "2014-10-03T16:31:03.646Z",
+        "frase": "Tenemos que _____ esa madera",
+        "objectId": "af3U8n2EVF",
+        "respuestaBuena": "serrar",
+        "respuestaMala": "cerrar",
+        "updatedAt": "2014-10-03T16:31:09.406Z"
+    },
+	{
+        "createdAt": "2014-10-07T20:55:39.892Z",
+        "frase": "El pollo _____",
+        "objectId": "ags1cF2trm",
+        "respuestaBuena": "pía",
+        "respuestaMala": "chilla",
+        "updatedAt": "2014-10-07T20:55:50.023Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:53:45.820Z",
+        "frase": "¡ _____ ! ¿cómo estás? ",
+        "objectId": "b8aMUsnOS5",
+        "respuestaBuena": "Hola",
+        "respuestaMala": "Ola",
+        "updatedAt": "2014-10-12T22:53:52.923Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:18:17.625Z",
+        "frase": "¿Qué ____ hoy en el restaurante?",
+        "objectId": "bBgm1BqFMi",
+        "respuestaBuena": "hay",
+        "respuestaMala": "ahí",
+        "updatedAt": "2014-10-04T19:18:22.766Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:10:37.736Z",
+        "frase": "Ella ______ su celular en el supermercado",
+        "objectId": "bEzpaortr8",
+        "respuestaBuena": "botó",
+        "respuestaMala": "votó",
+        "updatedAt": "2014-10-04T20:10:44.033Z"
+    },
+	{
+        "createdAt": "2014-10-12T21:19:59.265Z",
+        "frase": "_____ un poco de agua",
+        "objectId": "bQTVlhrssv",
+        "respuestaBuena": "Denle",
+        "respuestaMala": "Delen",
+        "updatedAt": "2014-10-12T21:20:11.345Z"
+    },
+	{
+        "createdAt": "2014-10-07T21:01:26.611Z",
+        "frase": "Debes seguir jugando para enriquecer tu _____",
+        "objectId": "bcQsvtpzZd",
+        "respuestaBuena": "léxico",
+        "respuestaMala": "lexico",
+        "updatedAt": "2014-10-07T21:01:38.155Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:21:08.563Z",
+        "frase": "No entiendo el _____ de tu silencio",
+        "objectId": "btml9SweCj",
+        "respuestaBuena": "porqué",
+        "respuestaMala": "por qué",
+        "updatedAt": "2014-10-07T16:21:27.389Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:21:47.651Z",
+        "frase": "Él _____ que salir temprano",
+        "objectId": "bxcJPYby1p",
+        "respuestaBuena": "tuvo",
+        "respuestaMala": "tubo",
+        "updatedAt": "2014-10-04T19:21:54.123Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:13:05.757Z",
+        "frase": "Se _____ en el suelo durante la carrera de atletismo",
+        "objectId": "cCdfhkZalP",
+        "respuestaBuena": "cayó",
+        "respuestaMala": "calló",
+        "updatedAt": "2014-10-04T20:13:12.022Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:49:14.457Z",
+        "frase": "El accidente es muy ______",
+        "objectId": "cG4BZJlE4Y",
+        "respuestaBuena": "reciente",
+        "respuestaMala": "resiente",
+        "updatedAt": "2014-10-06T04:49:20.058Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:17:31.357Z",
+        "frase": "¡_____! Se me cayó el martillo en el pie",
+        "objectId": "cS82bGZgb3",
+        "respuestaBuena": "Ay",
+        "respuestaMala": "Hay",
+        "updatedAt": "2014-10-04T19:17:43.007Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:44:01.883Z",
+        "frase": "Se _____ de mis manos",
+        "objectId": "cVQ6gsRC82",
+        "respuestaBuena": "zafó",
+        "respuestaMala": "safó",
+        "updatedAt": "2014-10-07T16:44:43.022Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:30:36.639Z",
+        "frase": "Me di cuenta _____ te fuiste",
+        "objectId": "cZq990LCgu",
+        "respuestaBuena": "de que ",
+        "respuestaMala": "que",
+        "updatedAt": "2014-10-12T22:30:43.475Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:12:53.836Z",
+        "frase": "Ojalá le _____ por venir mañana",
+        "objectId": "cgg8Et6pc8",
+        "respuestaBuena": "dé",
+        "respuestaMala": "de",
+        "updatedAt": "2014-10-07T16:12:58.316Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:21:29.102Z",
+        "frase": "¡_____! No hace falta que me lo eches en cara",
+        "objectId": "cuR4uGVlin",
+        "respuestaBuena": "Basta",
+        "respuestaMala": "Vasta",
+        "updatedAt": "2014-10-04T19:21:39.257Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:06:28.101Z",
+        "frase": "________ en tu argumento voy a refutar",
+        "objectId": "dbWcNAMZyp",
+        "respuestaBuena": "Con base",
+        "respuestaMala": "En base",
+        "updatedAt": "2014-10-07T18:41:51.699Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:19:15.534Z",
+        "frase": "Ella no lo quiere, yo ______",
+        "objectId": "ddcdu0HtaL",
+        "respuestaBuena": "tampoco",
+        "respuestaMala": "tan poco",
+        "updatedAt": "2014-10-04T20:19:22.231Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:07:58.242Z",
+        "frase": "Me llamó _____ no pude contestarle",
+        "objectId": "dj3P1j7NCq",
+        "respuestaBuena": "mas",
+        "respuestaMala": "más",
+        "updatedAt": "2014-10-07T16:08:06.040Z"
+    },
+	{
+        "createdAt": "2014-10-07T20:51:10.133Z",
+        "frase": "La abeja _____",
+        "objectId": "ds2TPZwm0J",
+        "respuestaBuena": "zumba",
+        "respuestaMala": "sumba",
+        "updatedAt": "2014-10-07T20:51:21.421Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:16:59.386Z",
+        "frase": "La niña siempre está haciendo ______",
+        "objectId": "e1O2SINLYG",
+        "respuestaBuena": "rayas",
+        "respuestaMala": "rallas",
+        "updatedAt": "2014-10-04T20:17:05.403Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:11:29.035Z",
+        "frase": "Ella no ______ salir durante la noche",
+        "objectId": "ebgLLBqfM2",
+        "respuestaBuena": "quiso",
+        "respuestaMala": "quizo",
+        "updatedAt": "2014-10-04T20:11:35.126Z"
+    },
+	{
+        "createdAt": "2014-10-07T17:01:44.127Z",
+        "frase": "Encontré un perro herido en el _____",
+        "objectId": "eooWtnD0Zl",
+        "respuestaBuena": "andén",
+        "respuestaMala": "anden",
+        "updatedAt": "2014-10-07T17:02:02.808Z"
+    },
+	{
+        "createdAt": "2014-10-07T19:54:01.412Z",
+        "frase": "Yo _____ la botella ",
+        "objectId": "f8Mxa0naiG",
+        "respuestaBuena": "agito",
+        "respuestaMala": "ajito",
+        "updatedAt": "2014-10-07T19:54:01.958Z"
+    },
+	{
+        "createdAt": "2014-10-07T20:58:49.031Z",
+        "frase": "Voy a preparar la comida en esta _____",
+        "objectId": "fMAbsei5fq",
+        "respuestaBuena": "olla",
+        "respuestaMala": "holla",
+        "updatedAt": "2014-10-07T20:58:59.051Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:36:38.976Z",
+        "frase": "Tienes muchos _____",
+        "objectId": "flGUvhF9Hx",
+        "respuestaBuena": "agüeros ",
+        "respuestaMala": "agueros ",
+        "updatedAt": "2014-10-12T22:37:03.678Z"
+    },
+	{
+        "createdAt": "2014-10-07T19:56:24.481Z",
+        "frase": "Hasta que no me _____ seguiré comiendo ",
+        "objectId": "fx2z7cmTOO",
+        "respuestaBuena": "harte",
+        "respuestaMala": "arte",
+        "updatedAt": "2014-10-07T19:56:30.593Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:13:20.809Z",
+        "frase": "________ que lo hiciera, estaría mal",
+        "objectId": "fyxJhYAyW6",
+        "respuestaBuena": "Comoquiera",
+        "respuestaMala": "Como quiera",
+        "updatedAt": "2014-10-04T20:13:28.158Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:33:39.850Z",
+        "frase": "Se lastimó el _____ al caer",
+        "objectId": "g9OcFWEABH",
+        "respuestaBuena": "bazo ",
+        "respuestaMala": "baso ",
+        "updatedAt": "2014-10-12T22:33:45.889Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:21:58.248Z",
+        "frase": "Subamos por la _____",
+        "objectId": "gq9oyItJ9J",
+        "respuestaBuena": "rampa",
+        "respuestaMala": "rampla",
+        "updatedAt": "2014-10-12T22:22:27.319Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:07:25.901Z",
+        "frase": "Se pueden ver los _____ de la imagen ",
+        "objectId": "gqOv08FDa2",
+        "respuestaBuena": "píxeles",
+        "respuestaMala": "píxels",
+        "updatedAt": "2014-10-12T22:08:33.794Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:18:32.182Z",
+        "frase": "No debe _____ comida en mi casa hoy",
+        "objectId": "hCbMys4zIi",
+        "respuestaBuena": "haber",
+        "respuestaMala": "a ver",
+        "updatedAt": "2014-10-04T19:18:38.212Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:17:12.188Z",
+        "frase": "Cuando ______ el pan, ensucia la cocina",
+        "objectId": "hhcBPFobms",
+        "respuestaBuena": "ralla",
+        "respuestaMala": "raya",
+        "updatedAt": "2014-10-04T20:17:17.174Z"
+    },
+	{
+        "createdAt": "2014-10-06T13:42:03.102Z",
+        "frase": "Voy _____ para la casa",
+        "objectId": "iIpCsjL3LU",
+        "respuestaBuena": "yendo",
+        "respuestaMala": "llendo",
+        "updatedAt": "2014-10-06T13:42:08.562Z"
+    },
+	{
+        "createdAt": "2014-10-12T21:44:01.390Z",
+        "frase": "Me molesta tu _____ ",
+        "objectId": "ier6BdJalF",
+        "respuestaBuena": "actitud",
+        "respuestaMala": "aptitud",
+        "updatedAt": "2014-10-12T21:44:10.380Z"
+    },
+	{
+        "createdAt": "2014-10-07T20:41:50.777Z",
+        "frase": "Debajo del _____ se le veía una cruz",
+        "objectId": "ikuNSG5nq8",
+        "respuestaBuena": "antifaz",
+        "respuestaMala": "antifas",
+        "updatedAt": "2014-10-07T20:41:58.115Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:35:06.147Z",
+        "frase": "_____ tus tareas pronto",
+        "objectId": "j4ApjxKf77",
+        "respuestaBuena": "Haz",
+        "respuestaMala": "Has",
+        "updatedAt": "2014-10-07T16:35:13.494Z"
+    },
+	{
+        "createdAt": "2014-10-12T21:25:13.730Z",
+        "frase": "La cultura _____ es muy interesante ",
+        "objectId": "j4hB7XlMbh",
+        "respuestaBuena": "maya",
+        "respuestaMala": "malla",
+        "updatedAt": "2014-10-12T21:25:20.342Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:03:55.972Z",
+        "frase": "¿____ ido a ver a tu padre?",
+        "objectId": "jpmL38hnFE",
+        "respuestaBuena": "Has",
+        "respuestaMala": "Haz",
+        "updatedAt": "2014-10-04T20:04:02.458Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:21:12.893Z",
+        "frase": "La región del amazonas es muy _____",
+        "objectId": "k5SorAnuY2",
+        "respuestaBuena": "vasta",
+        "respuestaMala": "basta",
+        "updatedAt": "2014-10-04T19:21:17.608Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:05:57.774Z",
+        "frase": "¿Has _____ lo que te dije?",
+        "objectId": "k6eeIuajFz",
+        "respuestaBuena": "hecho",
+        "respuestaMala": "echo",
+        "updatedAt": "2014-10-04T20:06:02.998Z"
+    },
+	{
+        "createdAt": "2014-10-12T21:24:33.105Z",
+        "frase": "Hoy estás muy _____ ",
+        "objectId": "k8Bx40ZnAB",
+        "respuestaBuena": "callado ",
+        "respuestaMala": "cayado ",
+        "updatedAt": "2014-10-12T21:24:42.736Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:04:29.161Z",
+        "frase": "Puedo decir que soy un ________",
+        "objectId": "kCGfQnVk6v",
+        "respuestaBuena": "exalcohólico",
+        "respuestaMala": "ex-alcohólico",
+        "updatedAt": "2014-10-04T20:04:39.857Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:06:12.975Z",
+        "frase": "El ______ es que hemos solucionado el problema",
+        "objectId": "kUVevYAmpt",
+        "respuestaBuena": "hecho",
+        "respuestaMala": "echo",
+        "updatedAt": "2014-10-04T20:06:16.975Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:11:28.330Z",
+        "frase": "Dame la _____ por favor",
+        "objectId": "kbhYSGwEQV",
+        "respuestaBuena": "toballa",
+        "respuestaMala": "tohalla",
+        "updatedAt": "2014-10-12T22:13:53.448Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:10:22.636Z",
+        "frase": "¿Qué tal si ______ esta tarde?",
+        "objectId": "kf6AGZ2Npa",
+        "respuestaBuena": "vienes",
+        "respuestaMala": "bienes",
+        "updatedAt": "2014-10-04T20:10:30.401Z"
+    },
+	{
+        "createdAt": "2014-10-07T20:54:46.297Z",
+        "frase": "El búho _____",
+        "objectId": "kv2BlZl4LC",
+        "respuestaBuena": "ulula",
+        "respuestaMala": "aulla",
+        "updatedAt": "2014-10-07T20:55:03.272Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:18:51.542Z",
+        "frase": "Y ______ que estaba en mi cuarto",
+        "objectId": "l6vy3dI3LP",
+        "respuestaBuena": "tan bien",
+        "respuestaMala": "también",
+        "updatedAt": "2014-10-04T20:18:58.553Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:11:56.167Z",
+        "frase": "_____ por el candidato de su preferencia",
+        "objectId": "lUyBeMNWvJ",
+        "respuestaBuena": "Vote",
+        "respuestaMala": "Bote",
+        "updatedAt": "2014-10-04T20:12:02.217Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:12:50.517Z",
+        "frase": "Estaba hablando mucho y el profesor lo _____",
+        "objectId": "lrwb0PkOlW",
+        "respuestaBuena": "calló",
+        "respuestaMala": "cayó",
+        "updatedAt": "2014-10-04T20:12:55.999Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:42:44.124Z",
+        "frase": "Andrés es un _____",
+        "objectId": "m5uccn6rDl",
+        "respuestaBuena": "funcionario",
+        "respuestaMala": "funcionario público",
+        "updatedAt": "2014-10-12T22:42:53.799Z"
+    },
+	{
+        "createdAt": "2014-10-12T21:25:42.889Z",
+        "frase": "Compré unas medias de _____ para Halloween ",
+        "objectId": "mSF0Zba0lm",
+        "respuestaBuena": "malla",
+        "respuestaMala": "maya",
+        "updatedAt": "2014-10-12T21:25:48.979Z"
+    },
+	{
+        "createdAt": "2014-10-12T21:53:44.883Z",
+        "frase": "¡Qué suave la lana de la _____ ! ",
+        "objectId": "mom0YHEcT1",
+        "respuestaBuena": "oveja",
+        "respuestaMala": "abeja",
+        "updatedAt": "2014-10-12T21:53:56.404Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:17:25.681Z",
+        "frase": "Planearon un _____ de cosas y no las hicieron",
+        "objectId": "msSQgCDGrq",
+        "respuestaBuena": "sinfín",
+        "respuestaMala": "sin fin",
+        "updatedAt": "2014-10-04T20:17:31.626Z"
+    },
+	{
+        "createdAt": "2014-10-03T15:43:17.820Z",
+        "frase": "Tienes que botar ese _____ a la basura",
+        "objectId": "myM3pfoPA7",
+        "respuestaBuena": "desecho",
+        "respuestaMala": "deshecho",
+        "updatedAt": "2014-10-03T15:44:17.838Z"
+    },
+	{
+        "createdAt": "2014-10-12T21:44:26.389Z",
+        "frase": "Tiene _____ para desempeñar su cargo ",
+        "objectId": "nXYNjJaNP7",
+        "respuestaBuena": "aptitud",
+        "respuestaMala": "actitudes",
+        "updatedAt": "2014-10-12T21:45:35.153Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:18:17.026Z",
+        "frase": "La sopa está ______",
+        "objectId": "niLZpAI47r",
+        "respuestaBuena": "sin sabor",
+        "respuestaMala": "sinsabor",
+        "updatedAt": "2014-10-04T20:18:24.136Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:16:29.966Z",
+        "frase": "Dale el dulce a _______ comérselo",
+        "objectId": "o1ae0snM1l",
+        "respuestaBuena": "quien quiera",
+        "respuestaMala": "quienquiera",
+        "updatedAt": "2014-10-04T20:16:42.755Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:38:20.878Z",
+        "frase": "Ella no lo ____",
+        "objectId": "o7MJyC4WJz",
+        "respuestaBuena": "vio",
+        "respuestaMala": "vió",
+        "updatedAt": "2014-10-06T04:38:24.701Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:14:53.000Z",
+        "frase": "Si me dices el ______, lo entendería",
+        "objectId": "oHgn6aoLmm",
+        "respuestaBuena": "porqué",
+        "respuestaMala": "por qué",
+        "updatedAt": "2014-10-04T20:14:57.917Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:19:33.299Z",
+        "frase": "Con esa actitud se convirtió en el _____ de la fiesta",
+        "objectId": "oVyeERdmZQ",
+        "respuestaBuena": "hazmerreír",
+        "respuestaMala": "hazmereír",
+        "updatedAt": "2014-10-07T16:19:54.094Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:05:19.944Z",
+        "frase": "Siempre _____ los papeles a la basura",
+        "objectId": "ota7g3Pefo",
+        "respuestaBuena": "echo",
+        "respuestaMala": "hecho",
+        "updatedAt": "2014-10-04T20:05:27.416Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:24:22.137Z",
+        "frase": "Ese producto _____ mis necesidades ",
+        "objectId": "pSkH0tisCn",
+        "respuestaBuena": "satisfizo",
+        "respuestaMala": "satisfació",
+        "updatedAt": "2014-10-12T22:24:35.340Z"
+    },
+	{
+        "createdAt": "2014-10-07T17:00:50.552Z",
+        "frase": "Solo cree en _____ mismo",
+        "objectId": "pib1ILotkX",
+        "respuestaBuena": "sí",
+        "respuestaMala": "si",
+        "updatedAt": "2014-10-07T17:00:57.848Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:45:00.756Z",
+        "frase": "No debes _____ las leyes",
+        "objectId": "ptCcsBGVXa",
+        "respuestaBuena": "infringir",
+        "respuestaMala": "infligir",
+        "updatedAt": "2014-10-12T22:45:14.087Z"
+    },
+	{
+        "createdAt": "2014-10-03T16:31:24.028Z",
+        "frase": "Yo _____ andado en bicicleta",
+        "objectId": "q1SPNEvvxX",
+        "respuestaBuena": "había",
+        "respuestaMala": "avía",
+        "updatedAt": "2014-10-03T16:31:31.623Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:05:40.122Z",
+        "frase": "Casi me _____  a llorar",
+        "objectId": "q3cqwiIDdr",
+        "respuestaBuena": "echo",
+        "respuestaMala": "hecho",
+        "updatedAt": "2014-10-04T20:05:46.167Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:48:05.242Z",
+        "frase": "Esta es _____ casa",
+        "objectId": "q7iQzvzGMA",
+        "respuestaBuena": "mi",
+        "respuestaMala": "mí",
+        "updatedAt": "2014-10-07T16:48:09.174Z"
+    },
+	{
+        "createdAt": "2014-10-12T21:38:48.792Z",
+        "frase": "Ellos van a _____ los libros ",
+        "objectId": "qQMCHaCWtL",
+        "respuestaBuena": "proveer",
+        "respuestaMala": "prever",
+        "updatedAt": "2014-10-12T21:38:56.909Z"
+    },
+	{
+        "createdAt": "2014-10-12T22:28:30.256Z",
+        "frase": "No sé si _____ comida en casa",
+        "objectId": "r8lgvRO4JO",
+        "respuestaBuena": "haya ",
+        "respuestaMala": "haiga",
+        "updatedAt": "2014-10-12T22:28:54.409Z"
+    },
+	{
+        "createdAt": "2014-10-03T16:33:15.756Z",
+        "frase": "El ____ comido sandía",
+        "objectId": "rSVqK9sORi",
+        "respuestaBuena": "ha",
+        "respuestaMala": "a",
+        "updatedAt": "2014-10-03T16:33:19.540Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:36:21.363Z",
+        "frase": "Tiene muy baja _____",
+        "objectId": "rYlqXU2XNB",
+        "respuestaBuena": "la autoestima",
+        "respuestaMala": "el autoestima",
+        "updatedAt": "2014-10-06T04:36:27.485Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:35:41.931Z",
+        "frase": "No se _____ bravo",
+        "objectId": "roF5K5nIzz",
+        "respuestaBuena": "ponga",
+        "respuestaMala": "coloque",
+        "updatedAt": "2014-10-06T04:35:48.559Z"
+    },
+	{
+        "createdAt": "2014-10-07T15:54:29.041Z",
+        "frase": "Claudia fue mi _____",
+        "objectId": "rsbb6MM3S8",
+        "respuestaBuena": "primera esposa",
+        "respuestaMala": "primer esposa",
+        "updatedAt": "2014-10-07T15:54:55.076Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:15:26.578Z",
+        "frase": "Debes estudiar para tener un buen ______",
+        "objectId": "sDyYkB3Qdz",
+        "respuestaBuena": "porvenir",
+        "respuestaMala": "por venir",
+        "updatedAt": "2014-10-04T20:15:35.856Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:23:02.412Z",
+        "frase": "Solamente encontré un _____",
+        "objectId": "sflnd11qNz",
+        "respuestaBuena": "tenis",
+        "respuestaMala": "teni",
+        "updatedAt": "2014-10-06T04:23:07.507Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:16:06.452Z",
+        "frase": "________ que sea, no abriré",
+        "objectId": "si2o5fceu8",
+        "respuestaBuena": "Quienquiera",
+        "respuestaMala": "Quien quiera",
+        "updatedAt": "2014-10-04T20:16:13.550Z"
+    },
+	{
+        "createdAt": "2014-10-07T20:03:03.093Z",
+        "frase": "Había dos _____ lecheras junto a la cabaña",
+        "objectId": "sm4oYYvYhJ",
+        "respuestaBuena": "vacas",
+        "respuestaMala": "bacas ",
+        "updatedAt": "2014-10-07T20:03:21.563Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:19:31.348Z",
+        "frase": "Él siempre gasta ______ dinero",
+        "objectId": "svqBHYxrbc",
+        "respuestaBuena": "tan poco",
+        "respuestaMala": "tampoco",
+        "updatedAt": "2014-10-04T20:19:39.318Z"
+    },
+	{
+        "createdAt": "2014-10-03T15:44:58.645Z",
+        "frase": "Voy a _____ qué está pasando",
+        "objectId": "t2qy0CANhm",
+        "respuestaBuena": "ojear",
+        "respuestaMala": "hojear",
+        "updatedAt": "2014-10-03T15:45:03.835Z"
+    },
+	{
+        "createdAt": "2014-10-06T13:53:12.448Z",
+        "frase": "Nos vemos en el _____",
+        "objectId": "t8ffBKrvH2",
+        "respuestaBuena": "cerro",
+        "respuestaMala": "serro",
+        "updatedAt": "2014-10-06T13:53:16.921Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:19:39.570Z",
+        "frase": "No entiendo qué hacen _____",
+        "objectId": "trPaHPlqO9",
+        "respuestaBuena": "allá",
+        "respuestaMala": "halla",
+        "updatedAt": "2014-10-04T19:19:46.329Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:55:33.288Z",
+        "frase": "_____ caso está cerrado",
+        "objectId": "uqdo47qoFS",
+        "respuestaBuena": "El",
+        "respuestaMala": "Él",
+        "updatedAt": "2014-10-07T16:55:41.629Z"
+    },
+	{
+        "createdAt": "2014-10-07T19:54:17.553Z",
+        "frase": "Le puso un _____ a la comida ",
+        "objectId": "v179U5NKua",
+        "respuestaBuena": "ajito",
+        "respuestaMala": "agito ",
+        "updatedAt": "2014-10-07T19:54:38.210Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:15:51.702Z",
+        "frase": "Ella está ______",
+        "objectId": "v2evtDLyVe",
+        "respuestaBuena": "por venir",
+        "respuestaMala": "porvenir",
+        "updatedAt": "2014-10-04T20:15:57.027Z"
+    },
+	{
+        "createdAt": "2014-10-06T13:48:01.940Z",
+        "frase": "Lo digo ______",
+        "objectId": "vEkHhSLqCD",
+        "respuestaBuena": "en serio",
+        "respuestaMala": "enserio",
+        "updatedAt": "2014-10-06T13:48:07.708Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:18:47.319Z",
+        "frase": "Voy _____ qué hago para solucionar ese asunto",
+        "objectId": "vMCYLDf5IG",
+        "respuestaBuena": "a ver",
+        "respuestaMala": "haber",
+        "updatedAt": "2014-10-05T06:24:01.719Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:24:22.420Z",
+        "frase": "Un _____ escribe poemas",
+        "objectId": "vO8KxtFqrS",
+        "respuestaBuena": "vate",
+        "respuestaMala": "bate",
+        "updatedAt": "2014-10-06T04:24:26.138Z"
+    },
+	{
+        "createdAt": "2014-10-07T19:49:50.809Z",
+        "frase": "El _____ es una planta que puede confundirse con la margarita",
+        "objectId": "wK5kQgrw0S",
+        "respuestaBuena": "abiar",
+        "respuestaMala": "aviar",
+        "updatedAt": "2014-10-07T19:50:02.603Z"
+    },
+	{
+        "createdAt": "2014-10-03T16:30:45.756Z",
+        "frase": "Esa _____ es perfecta para el surf",
+        "objectId": "wSweGOHZfA",
+        "respuestaBuena": "ola",
+        "respuestaMala": "hola",
+        "updatedAt": "2014-10-03T16:30:50.776Z"
+    },
+	{
+        "createdAt": "2014-10-03T16:30:07.611Z",
+        "frase": "La _____ de osos está prohibida",
+        "objectId": "wToNcRcdTV",
+        "respuestaBuena": "caza",
+        "respuestaMala": "casa",
+        "updatedAt": "2014-10-03T16:30:11.963Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:08:20.039Z",
+        "frase": "Este libro trata _______ de los animales",
+        "objectId": "wbNfxHjjJm",
+        "respuestaBuena": "acerca",
+        "respuestaMala": "a cerca",
+        "updatedAt": "2014-10-04T20:08:26.985Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:32:37.105Z",
+        "frase": "Se me cayó el _____",
+        "objectId": "weQJEUL9KJ",
+        "respuestaBuena": "vasito",
+        "respuestaMala": "vacito",
+        "updatedAt": "2014-10-06T04:32:41.614Z"
+    },
+	{
+        "createdAt": "2014-10-07T16:35:34.015Z",
+        "frase": "Tú te _____ olvidado",
+        "objectId": "xOodSJKfny",
+        "respuestaBuena": "has",
+        "respuestaMala": "haz",
+        "updatedAt": "2014-10-07T16:35:43.297Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:22:36.310Z",
+        "frase": "Ella va ______ nuestra gerente",
+        "objectId": "xQF0sVVU2w",
+        "respuestaBuena": "a ser",
+        "respuestaMala": "hacer",
+        "updatedAt": "2014-10-04T19:22:41.397Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:19:04.154Z",
+        "frase": "Ojalá _____ pescado para la cena",
+        "objectId": "xdNFSGzMXs",
+        "respuestaBuena": "haya",
+        "respuestaMala": "halla",
+        "updatedAt": "2014-10-04T19:19:09.524Z"
+    },
+	{
+        "createdAt": "2014-10-03T16:33:35.319Z",
+        "frase": "Ella me _____ de la casa",
+        "objectId": "xhHCCawcrP",
+        "respuestaBuena": "echó",
+        "respuestaMala": "hecho",
+        "updatedAt": "2014-10-03T16:33:42.330Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:39:29.912Z",
+        "frase": "Eso dañó su ______",
+        "objectId": "xjpZc4Rbk9",
+        "respuestaBuena": "imagen",
+        "respuestaMala": "imágen",
+        "updatedAt": "2014-10-06T04:58:41.292Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:42:57.469Z",
+        "frase": "No estaba ______ en la lista",
+        "objectId": "y8euuNkaq7",
+        "respuestaBuena": "incluido",
+        "respuestaMala": "incluído",
+        "updatedAt": "2014-10-06T04:43:04.939Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:20:11.922Z",
+        "frase": "Me gustó comerme esa _____",
+        "objectId": "yCsvkuRk8v",
+        "respuestaBuena": "baya",
+        "respuestaMala": "valla",
+        "updatedAt": "2014-10-04T19:20:18.790Z"
+    },
+	{
+        "createdAt": "2014-10-04T19:20:45.268Z",
+        "frase": "Puse una _____ para proteger mi casa de los ladrones",
+        "objectId": "yEmdAtNESj",
+        "respuestaBuena": "valla",
+        "respuestaMala": "vaya",
+        "updatedAt": "2014-10-04T19:20:52.531Z"
+    },
+	{
+        "createdAt": "2014-10-06T04:38:50.571Z",
+        "frase": "No hay _____ de error",
+        "objectId": "ygTUNJiuGX",
+        "respuestaBuena": "margen",
+        "respuestaMala": "márgen",
+        "updatedAt": "2014-10-06T04:39:08.693Z"
+    },
+	{
+        "createdAt": "2014-10-07T19:55:14.126Z",
+        "frase": "El _____ se desarrolló entre los s. XII y XVI",
+        "objectId": "ynZqheogVp",
+        "respuestaBuena": "arte",
+        "respuestaMala": "harte",
+        "updatedAt": "2014-10-07T19:56:07.296Z"
+    },
+	{
+        "createdAt": "2014-10-12T21:54:36.230Z",
+        "frase": "Hay miel en el panal de las _____ ",
+        "objectId": "zL1Wo8pQDp",
+        "respuestaBuena": "abejas",
+        "respuestaMala": "ovejas",
+        "updatedAt": "2014-10-12T21:54:46.021Z"
+    },
+	{
+        "createdAt": "2014-10-04T20:05:02.079Z",
+        "frase": "Sus componentes son __________",
+        "objectId": "zWHBHgVLaC",
+        "respuestaBuena": "anticancerígenos",
+        "respuestaMala": "anti-cancerígenos",
+        "updatedAt": "2014-10-04T20:05:11.419Z"
+    }
+] }

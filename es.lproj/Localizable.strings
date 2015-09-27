@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  FreakingGrammariOS
+
+  Created by Juan Camilo Sacanamboy on 14/10/14.
+  Copyright (c) 2014 Peewah. All rights reserved.
+*/
+
+//Lenguajes
+"idiomaEspanol" = "ESPAÑOL";
+"idiomaIngles" = "INGLÉS";
+"idiomaFrances" = "FRANCÉS";
+"idiomaItaliano" = "ITALIANO";
+"idiomaPortugues" = "PORTUGUÉS";
+"idiomaAleman" = "ALEMÁN";
+"titleLanguages" = "Selecciona el idioma";
+
+//Menu
+"btnCalificar" = "Calificar";
+
+//Mensajes finales
+"youWin" = "¡Eres todo un erudito!";
+"youLost" = "Perdiste :(";
+"newScore" = "Nuevo";
+"bestScore" = "Mejor";
+"btnJugar" = "Jugar";
+"btnMenu" = "Menú";
+"btnCompartir" = "Compartir";
+
+//Mensajes compartir
+"shareScoreFirst" = "¡Supera mis";
+"shareScoreSecondEspanol" = "puntos en #freakingrammar Español y pon a prueba tu agilidad en la gramática!";
+"shareScoreSecondIngles" = "puntos en #freakingrammar Inglés y pon a prueba tu agilidad en la gramática!";
+"shareScoreSecondFrances" = "puntos en #freakingrammar Francés y pon a prueba tu agilidad en la gramática!";
+
+//Inicio sesión
+"iniciaSesion" = "Iniciar sesión";
+"cerrarSesion" = "Cerrar sesión";
+
+//Dialogo leaderboard y achievements
+"titleDialogIniciaSesionLeaderboard" = "¿Quieres aparecer en la tabla de posiciones?";
+"titleDialogIniciaSesionAchievements" = "¿Quieres ver tus trofeos?";
+"bodyDialogIniciaSesionLeaderboard" = "Inicia sesión con tu cuenta de Google en la pantalla de selección de idioma y podrás aparecerás en la tabla de posiciones";
+"bodyDialogIniciaSesionAchievements" = "Inicia sesión con tu cuenta de Google en la pantalla de selección de idioma y podrás observar tus trofeos";
+

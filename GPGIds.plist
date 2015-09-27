@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>scholars_id</key>
+	<string>CgkIubbrrMwEEAIQCQ</string>
+	<key>savants_id</key>
+	<string>CgkIubbrrMwEEAIQEQ</string>
+	<key>logroNuevo</key>
+	<string>CgkIubbrrMwEEAIQAg</string>
+	<key>logroNovato</key>
+	<string>CgkIubbrrMwEEAIQAw</string>
+	<key>logroAprendiz</key>
+	<string>CgkIubbrrMwEEAIQBA</string>
+	<key>logroProfesional</key>
+	<string>CgkIubbrrMwEEAIQBg</string>
+	<key>logroAvanzado</key>
+	<string>CgkIubbrrMwEEAIQBQ</string>
+	<key>logroErudito</key>
+	<string>CgkIubbrrMwEEAIQBw</string>
+	<key>logroNewbie</key>
+	<string>CgkIubbrrMwEEAIQCg</string>
+	<key>logroFreshman</key>
+	<string>CgkIubbrrMwEEAIQCw</string>
+	<key>logroApprentice</key>
+	<string>CgkIubbrrMwEEAIQDA</string>
+	<key>logroAdvanced</key>
+	<string>CgkIubbrrMwEEAIQDQ</string>
+	<key>logroProfessional</key>
+	<string>CgkIubbrrMwEEAIQDg</string>
+	<key>logroScholar</key>
+	<string>CgkIubbrrMwEEAIQDw</string>
+	<key>logroDebutant</key>
+	<string>CgkIubbrrMwEEAIQEg</string>
+	<key>logroNovice</key>
+	<string>CgkIubbrrMwEEAIQEw</string>
+	<key>logroApprenti</key>
+	<string>CgkIubbrrMwEEAIQFA</string>
+	<key>logroAdvance</key>
+	<string>CgkIubbrrMwEEAIQFQ</string>
+	<key>logroProfessionnel</key>
+	<string>CgkIubbrrMwEEAIQFg</string>
+	<key>logroSavant</key>
+	<string>CgkIubbrrMwEEAIQFw</string>
+	<key>eruditos_id</key>
+	<string>CgkIubbrrMwEEAIQAQ</string>
+</dict>
+</plist>

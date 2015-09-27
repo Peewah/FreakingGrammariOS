@@ -1,0 +1,1626 @@
+{ "results": [
+	{
+        "badAnswer": "annual",
+        "createdAt": "2014-10-11T03:23:54.964Z",
+        "goodAnswer": "annul",
+        "objectId": "0L1vYW6BXW",
+        "phrase": "They want to _____ the contract",
+        "updatedAt": "2014-10-11T05:08:03.211Z"
+    },
+	{
+        "badAnswer": "me",
+        "createdAt": "2014-10-06T14:42:47.659Z",
+        "goodAnswer": "to me",
+        "objectId": "1AxX6vhamu",
+        "phrase": "Please explain ____ how to improve my Spanish",
+        "updatedAt": "2014-10-06T14:42:51.951Z"
+    },
+	{
+        "badAnswer": "is",
+        "createdAt": "2014-10-06T14:41:56.451Z",
+        "goodAnswer": "is the",
+        "objectId": "1Dc4Ndf8Mj",
+        "phrase": "Where ____ post office?",
+        "updatedAt": "2014-10-10T06:16:45.948Z"
+    },
+	{
+        "badAnswer": "borne",
+        "createdAt": "2014-10-12T16:18:36.471Z",
+        "goodAnswer": "born",
+        "objectId": "23706qwSmM",
+        "phrase": "A child was ____ at 12:01 New Year's day",
+        "updatedAt": "2014-10-12T16:18:36.471Z"
+    },
+	{
+        "badAnswer": "an",
+        "createdAt": "2014-10-08T10:48:12.943Z",
+        "goodAnswer": "a",
+        "objectId": "2DaIhAhTBb",
+        "phrase": "I'm writing ___ letter",
+        "updatedAt": "2014-10-08T10:48:21.876Z"
+    },
+	{
+        "badAnswer": "and",
+        "createdAt": "2014-10-08T10:48:42.217Z",
+        "goodAnswer": "an",
+        "objectId": "2tVlTVf5Jr",
+        "phrase": "I want ___ apple",
+        "updatedAt": "2014-10-08T10:48:46.747Z"
+    },
+	{
+        "badAnswer": "assent",
+        "createdAt": "2014-10-11T05:35:46.752Z",
+        "goodAnswer": "ascent",
+        "objectId": "30OhE2j5kl",
+        "phrase": "My _____ in the company will come soon",
+        "updatedAt": "2014-10-11T05:35:46.752Z"
+    },
+	{
+        "badAnswer": "described",
+        "createdAt": "2014-10-11T05:35:48.914Z",
+        "goodAnswer": "ascribed",
+        "objectId": "35kkGOLWYj",
+        "phrase": "She _____ her feelings of jealousy to insecurity",
+        "updatedAt": "2014-10-11T05:35:48.914Z"
+    },
+	{
+        "badAnswer": "semimonthly",
+        "createdAt": "2014-10-12T16:18:33.320Z",
+        "goodAnswer": "bimonthly",
+        "objectId": "3Rsv6nQhX9",
+        "phrase": "It's a ____ event. I have to go every two months",
+        "updatedAt": "2014-10-12T16:18:33.320Z"
+    },
+	{
+        "badAnswer": "breaks",
+        "createdAt": "2014-10-12T16:18:38.942Z",
+        "goodAnswer": "brakes",
+        "objectId": "3ja4JZUhpw",
+        "phrase": "The _____ didn't work so the car crashed",
+        "updatedAt": "2014-10-12T16:18:38.942Z"
+    },
+	{
+        "badAnswer": "affect",
+        "createdAt": "2014-10-07T04:00:28.276Z",
+        "goodAnswer": "effect",
+        "objectId": "3peImEm0Yq",
+        "phrase": "The ______ of the storm was devastating",
+        "updatedAt": "2014-10-07T04:00:55.590Z"
+    },
+	{
+        "badAnswer": "away",
+        "createdAt": "2014-10-07T04:12:03.587Z",
+        "goodAnswer": "a way",
+        "objectId": "4Tg7Q0plTW",
+        "phrase": "There is _______ to solve that",
+        "updatedAt": "2014-10-07T04:12:10.057Z"
+    },
+	{
+        "badAnswer": "brake",
+        "createdAt": "2014-10-12T16:18:38.427Z",
+        "goodAnswer": "break",
+        "objectId": "4bLTg67CD6",
+        "phrase": "Even a good friend may ____ a promise",
+        "updatedAt": "2014-10-12T16:18:38.427Z"
+    },
+	{
+        "badAnswer": "bated",
+        "createdAt": "2014-10-12T16:18:24.805Z",
+        "goodAnswer": "baited",
+        "objectId": "60BwjWOqWL",
+        "phrase": "It's easy to catch birds with ____ traps",
+        "updatedAt": "2014-10-12T16:18:24.805Z"
+    },
+	{
+        "badAnswer": "It's",
+        "createdAt": "2014-10-06T13:55:56.509Z",
+        "goodAnswer": "Its",
+        "objectId": "60GePXUE5b",
+        "phrase": "____ wings are beautiful",
+        "updatedAt": "2014-10-06T14:08:51.445Z"
+    },
+	{
+        "badAnswer": "all ways",
+        "createdAt": "2014-10-08T12:20:43.320Z",
+        "goodAnswer": "always",
+        "objectId": "6JQfMxqsRW",
+        "phrase": "She's ______ angry",
+        "updatedAt": "2014-10-08T12:20:49.011Z"
+    },
+	{
+        "badAnswer": "cite",
+        "createdAt": "2014-10-06T14:16:18.253Z",
+        "goodAnswer": "site",
+        "objectId": "6XY34jpS8m",
+        "phrase": "The _____ is beautiful",
+        "updatedAt": "2014-10-06T14:16:22.102Z"
+    },
+	{
+        "badAnswer": "assent",
+        "createdAt": "2014-10-11T05:35:45.753Z",
+        "goodAnswer": "accent",
+        "objectId": "6lAPNLZBUA",
+        "phrase": "His _____ is hilarious",
+        "updatedAt": "2014-10-11T05:35:45.753Z"
+    },
+	{
+        "badAnswer": "complement",
+        "createdAt": "2014-10-12T16:18:57.888Z",
+        "goodAnswer": "compliment",
+        "objectId": "6mZ68KaeiY",
+        "phrase": "She gave me a _____ about my shirt",
+        "updatedAt": "2014-10-12T16:18:57.888Z"
+    },
+	{
+        "badAnswer": "in to",
+        "createdAt": "2014-10-07T03:41:18.411Z",
+        "goodAnswer": "into",
+        "objectId": "75zzK2iIgm",
+        "phrase": "The children jumped _____ the pool for a swim",
+        "updatedAt": "2014-10-07T03:41:24.058Z"
+    },
+	{
+        "badAnswer": "adapt",
+        "createdAt": "2014-10-07T03:55:09.226Z",
+        "goodAnswer": "adopt",
+        "objectId": "7XvRGcsBgp",
+        "phrase": "You ______ a new way to exercise",
+        "updatedAt": "2014-10-07T03:55:22.326Z"
+    },
+	{
+        "badAnswer": "effects",
+        "createdAt": "2014-10-06T13:57:31.633Z",
+        "goodAnswer": "affects",
+        "objectId": "7fNaurpwer",
+        "phrase": "Carbon dioxide _____ the environment",
+        "updatedAt": "2014-10-06T13:57:37.681Z"
+    },
+	{
+        "badAnswer": "aide",
+        "createdAt": "2014-10-07T04:02:57.018Z",
+        "goodAnswer": "aid",
+        "objectId": "7flsGIsLug",
+        "phrase": "The nurse give her the first _____",
+        "updatedAt": "2014-10-07T04:03:00.733Z"
+    },
+	{
+        "badAnswer": "denotes",
+        "createdAt": "2014-10-12T16:19:04.721Z",
+        "goodAnswer": "connotes",
+        "objectId": "7oxo3RJFgE",
+        "phrase": "'Home' ____ safety",
+        "updatedAt": "2014-10-12T16:19:04.721Z"
+    },
+	{
+        "badAnswer": "a way",
+        "createdAt": "2014-10-07T04:14:17.359Z",
+        "goodAnswer": "away",
+        "objectId": "7pc1rIcHaQ",
+        "phrase": "My girlfriend is far _____",
+        "updatedAt": "2014-10-07T04:14:22.258Z"
+    },
+	{
+        "badAnswer": "good",
+        "createdAt": "2014-10-06T14:35:13.958Z",
+        "goodAnswer": "well",
+        "objectId": "8XlQgtdGqV",
+        "phrase": "You speak english _____",
+        "updatedAt": "2014-10-06T14:35:19.590Z"
+    },
+	{
+        "badAnswer": "adopt",
+        "createdAt": "2014-10-07T03:54:33.108Z",
+        "goodAnswer": "adapt",
+        "objectId": "9Crdn6NiTQ",
+        "phrase": "She can't _____ to the weather",
+        "updatedAt": "2014-10-07T03:54:44.745Z"
+    },
+	{
+        "badAnswer": "bimonthly",
+        "createdAt": "2014-10-12T16:18:32.835Z",
+        "goodAnswer": "semimonthly",
+        "objectId": "9U9kbqoGvi",
+        "phrase": "It's a ____ event. I have to go twice a month",
+        "updatedAt": "2014-10-12T16:18:32.835Z"
+    },
+	{
+        "badAnswer": "borrow",
+        "createdAt": "2014-10-12T16:18:37.118Z",
+        "goodAnswer": "lend",
+        "objectId": "9WAGkrVJyS",
+        "phrase": "I'll _____ her my book",
+        "updatedAt": "2014-10-12T16:18:37.118Z"
+    },
+	{
+        "badAnswer": "canvas",
+        "createdAt": "2014-10-12T16:18:44.552Z",
+        "goodAnswer": "canvass",
+        "objectId": "9Z6KvyyeLV",
+        "phrase": "The candidate for mayor went to ____ the voters",
+        "updatedAt": "2014-10-12T16:18:44.552Z"
+    },
+	{
+        "badAnswer": "canvas",
+        "createdAt": "2014-10-12T16:18:43.837Z",
+        "goodAnswer": "canvass",
+        "objectId": "9mGZYavkyD",
+        "phrase": "These are the results of the _____",
+        "updatedAt": "2014-10-12T16:18:43.837Z"
+    },
+	{
+        "badAnswer": "bridle",
+        "createdAt": "2014-10-12T16:18:39.402Z",
+        "goodAnswer": "bridal",
+        "objectId": "ARC3b5kU0G",
+        "phrase": "I wanted nothing _____, nothing white",
+        "updatedAt": "2014-10-12T16:18:39.402Z"
+    },
+	{
+        "badAnswer": "connotes",
+        "createdAt": "2014-10-12T16:19:05.209Z",
+        "goodAnswer": "denotes",
+        "objectId": "Aczkl6qpmU",
+        "phrase": "'Home' ____ the place where you live",
+        "updatedAt": "2014-10-12T16:19:05.209Z"
+    },
+	{
+        "badAnswer": "desert",
+        "createdAt": "2014-10-06T14:04:06.987Z",
+        "goodAnswer": "dessert",
+        "objectId": "B6IF7RhZoC",
+        "phrase": "The _____ was delicious",
+        "updatedAt": "2014-10-06T14:04:12.198Z"
+    },
+	{
+        "badAnswer": "with",
+        "createdAt": "2014-10-06T14:15:28.350Z",
+        "goodAnswer": "to",
+        "objectId": "BU38XePytk",
+        "phrase": "She's married ___ a dentist",
+        "updatedAt": "2014-10-06T14:15:32.512Z"
+    },
+	{
+        "badAnswer": "persuaded",
+        "createdAt": "2014-10-12T16:19:09.434Z",
+        "goodAnswer": "convinced",
+        "objectId": "Bx8COkLNLX",
+        "phrase": "He has _____ me that aliens do exist",
+        "updatedAt": "2014-10-12T16:19:09.434Z"
+    },
+	{
+        "badAnswer": "around",
+        "createdAt": "2014-10-07T03:46:42.574Z",
+        "goodAnswer": "on",
+        "objectId": "ByVH5iEUx0",
+        "phrase": "My research is centered ______ vision computing",
+        "updatedAt": "2014-10-09T20:56:43.964Z"
+    },
+	{
+        "badAnswer": "assure",
+        "createdAt": "2014-10-11T05:35:52.819Z",
+        "goodAnswer": "insure",
+        "objectId": "CB5K5HxcPJ",
+        "phrase": "I’ll ______ my car as required by law",
+        "updatedAt": "2014-10-11T05:35:52.819Z"
+    },
+	{
+        "badAnswer": "hangar",
+        "createdAt": "2014-10-06T14:05:05.103Z",
+        "goodAnswer": "hanger",
+        "objectId": "CGxlGfd9Op",
+        "phrase": "The coat is on the _____",
+        "updatedAt": "2014-10-06T14:05:12.500Z"
+    },
+	{
+        "badAnswer": "except",
+        "createdAt": "2014-10-06T22:55:02.240Z",
+        "goodAnswer": "accept",
+        "objectId": "CMrlqgB5V3",
+        "phrase": "I always ______ good advice",
+        "updatedAt": "2014-10-06T22:55:18.801Z"
+    },
+	{
+        "badAnswer": "auger",
+        "createdAt": "2014-10-11T05:35:55.855Z",
+        "goodAnswer": "augur",
+        "objectId": "CT8Ux0xKqu",
+        "phrase": "These signs ____ bad news",
+        "updatedAt": "2014-10-11T05:35:55.855Z"
+    },
+	{
+        "badAnswer": "censures",
+        "createdAt": "2014-10-12T16:18:49.363Z",
+        "goodAnswer": "censors",
+        "objectId": "D0gTCe2cvE",
+        "phrase": "That country routinely ____ the Internet",
+        "updatedAt": "2014-10-12T16:18:49.363Z"
+    },
+	{
+        "badAnswer": "bad",
+        "createdAt": "2014-10-12T16:18:20.237Z",
+        "goodAnswer": "badly",
+        "objectId": "DN5cDNBbI0",
+        "phrase": "His face looked ____ bruised after being punched",
+        "updatedAt": "2014-10-12T16:18:20.237Z"
+    },
+	{
+        "badAnswer": "assistance",
+        "createdAt": "2014-10-11T05:35:51.693Z",
+        "goodAnswer": "assistants",
+        "objectId": "DeSmLb9xUu",
+        "phrase": "They are my _____",
+        "updatedAt": "2014-10-11T05:35:51.693Z"
+    },
+	{
+        "badAnswer": "bore",
+        "createdAt": "2014-10-12T16:18:35.344Z",
+        "goodAnswer": "boor",
+        "objectId": "DycXV0Cwfj",
+        "phrase": "He is a ____ and understands nothing about culture",
+        "updatedAt": "2014-10-12T16:18:35.344Z"
+    },
+	{
+        "badAnswer": "Your",
+        "createdAt": "2014-10-08T10:44:48.385Z",
+        "goodAnswer": "You're",
+        "objectId": "EpHpzhxFsR",
+        "phrase": "____ beautiful",
+        "updatedAt": "2014-10-10T17:10:27.276Z"
+    },
+	{
+        "badAnswer": "ascetic",
+        "createdAt": "2014-10-11T05:35:47.257Z",
+        "goodAnswer": "aesthetic",
+        "objectId": "F2P895KQoU",
+        "phrase": "He has a very ______ jean",
+        "updatedAt": "2014-10-11T05:35:47.257Z"
+    },
+	{
+        "badAnswer": "students like",
+        "createdAt": "2014-10-06T14:29:37.091Z",
+        "goodAnswer": "student likes",
+        "objectId": "F3PrODTIhT",
+        "phrase": "Every __________ the teacher",
+        "updatedAt": "2014-10-06T14:29:57.142Z"
+    },
+	{
+        "badAnswer": "choose",
+        "createdAt": "2014-10-06T14:14:11.864Z",
+        "goodAnswer": "chose",
+        "objectId": "F8HZ6YPXjM",
+        "phrase": "Yesterday, John _____ the red wine",
+        "updatedAt": "2014-10-06T14:14:56.104Z"
+    },
+	{
+        "badAnswer": "hear",
+        "createdAt": "2014-10-06T14:07:35.472Z",
+        "goodAnswer": "here",
+        "objectId": "FJO5tnT9xZ",
+        "phrase": "I'm ____ for you",
+        "updatedAt": "2014-10-06T14:07:41.636Z"
+    },
+	{
+        "badAnswer": "Than",
+        "createdAt": "2014-10-06T14:17:17.470Z",
+        "goodAnswer": "Then",
+        "objectId": "FKRvEwVsIe",
+        "phrase": "____, the plain departed ",
+        "updatedAt": "2014-10-06T14:17:29.085Z"
+    },
+	{
+        "badAnswer": "conscience",
+        "createdAt": "2014-10-12T16:19:06.639Z",
+        "goodAnswer": "conscious",
+        "objectId": "FU8EZTO9L8",
+        "phrase": "A ____ effort to speak more slowly",
+        "updatedAt": "2014-10-12T16:19:06.639Z"
+    },
+	{
+        "badAnswer": "adverse",
+        "createdAt": "2014-10-08T12:03:48.108Z",
+        "goodAnswer": "averse",
+        "objectId": "GQACwKCjUA",
+        "phrase": "Are you ______ to change?",
+        "updatedAt": "2014-10-08T12:03:52.530Z"
+    },
+	{
+        "badAnswer": "born",
+        "createdAt": "2014-10-12T16:18:35.998Z",
+        "goodAnswer": "borne",
+        "objectId": "GtOqlULe6B",
+        "phrase": "The campaign has ____ fruit",
+        "updatedAt": "2014-10-12T16:18:35.998Z"
+    },
+	{
+        "badAnswer": "capitol",
+        "createdAt": "2014-10-12T16:18:45.025Z",
+        "goodAnswer": "capital",
+        "objectId": "HE1qA9nvXL",
+        "phrase": "Bogotá is the _____ of Colombia",
+        "updatedAt": "2014-10-12T16:18:45.025Z"
+    },
+	{
+        "badAnswer": "custom",
+        "createdAt": "2014-10-07T04:24:18.197Z",
+        "goodAnswer": "custome",
+        "objectId": "ISltmXSLUR",
+        "phrase": "You must buy a ________",
+        "updatedAt": "2014-10-07T04:24:22.718Z"
+    },
+	{
+        "badAnswer": "advise",
+        "createdAt": "2014-10-08T12:12:14.278Z",
+        "goodAnswer": "advice",
+        "objectId": "IViIK6k6R8",
+        "phrase": "That _____ changed my life",
+        "updatedAt": "2014-10-08T12:12:19.338Z"
+    },
+	{
+        "badAnswer": "ad",
+        "createdAt": "2014-10-07T03:51:29.948Z",
+        "goodAnswer": "add",
+        "objectId": "IckLjY8DYK",
+        "phrase": "Please ____ the two numbers",
+        "updatedAt": "2014-10-07T03:52:06.619Z"
+    },
+	{
+        "badAnswer": "comprised",
+        "createdAt": "2014-10-12T16:19:00.161Z",
+        "goodAnswer": "composed",
+        "objectId": "JuGlC9B0gR",
+        "phrase": "Colombia is _____ of 32 departments",
+        "updatedAt": "2014-10-12T16:19:00.161Z"
+    },
+	{
+        "badAnswer": "amused",
+        "createdAt": "2014-10-11T03:23:53.846Z",
+        "goodAnswer": "bemused",
+        "objectId": "K7Or4WzXUq",
+        "phrase": "She was ______ by your strange behavior",
+        "updatedAt": "2014-10-11T05:07:46.005Z"
+    },
+	{
+        "badAnswer": "nobody",
+        "createdAt": "2014-10-06T14:40:02.954Z",
+        "goodAnswer": "anybody",
+        "objectId": "K8JwUot0xD",
+        "phrase": "I didn’t meet _____",
+        "updatedAt": "2014-10-06T14:40:15.513Z"
+    },
+	{
+        "badAnswer": "go always",
+        "createdAt": "2014-10-06T14:49:01.781Z",
+        "goodAnswer": "always go",
+        "objectId": "KA8G0VwHm1",
+        "phrase": "I ______ to school by subway",
+        "updatedAt": "2014-10-06T14:49:07.652Z"
+    },
+	{
+        "badAnswer": "aesthetic",
+        "createdAt": "2014-10-11T05:35:48.440Z",
+        "goodAnswer": "ascetic",
+        "objectId": "KRhlH0UI8L",
+        "phrase": "During the trip I had an _____ lifestyle",
+        "updatedAt": "2014-10-11T05:35:48.440Z"
+    },
+	{
+        "badAnswer": "in",
+        "createdAt": "2014-10-06T14:06:38.926Z",
+        "goodAnswer": "at",
+        "objectId": "KXuNHZEhSD",
+        "phrase": "I'm ____ the university",
+        "updatedAt": "2014-10-06T14:06:46.512Z"
+    },
+	{
+        "badAnswer": "breathe",
+        "createdAt": "2014-10-06T14:00:17.934Z",
+        "goodAnswer": "breath",
+        "objectId": "Ki1OD3fM4l",
+        "phrase": "He exhaled his last ____",
+        "updatedAt": "2014-10-07T04:16:39.860Z"
+    },
+	{
+        "badAnswer": "dispersions",
+        "createdAt": "2014-10-11T05:35:49.852Z",
+        "goodAnswer": "aspersions",
+        "objectId": "KiZfGVSW8h",
+        "phrase": "I did not intend to cast ______ on his character",
+        "updatedAt": "2014-10-11T05:35:49.852Z"
+    },
+	{
+        "badAnswer": "confirm",
+        "createdAt": "2014-10-12T16:19:02.150Z",
+        "goodAnswer": "conform",
+        "objectId": "L5nwwoUETg",
+        "phrase": "The dress she wore did not ____ to others",
+        "updatedAt": "2014-10-12T16:19:02.150Z"
+    },
+	{
+        "badAnswer": "climactic",
+        "createdAt": "2014-10-12T16:18:50.928Z",
+        "goodAnswer": "climatic",
+        "objectId": "LQDswEJTyZ",
+        "phrase": "The city is known for its dramatic ____ changes",
+        "updatedAt": "2014-10-12T16:18:50.928Z"
+    },
+	{
+        "badAnswer": "Do",
+        "createdAt": "2014-10-06T14:37:16.385Z",
+        "goodAnswer": "Would",
+        "objectId": "LcsgXicL3a",
+        "phrase": "____ you like a glass of wine?",
+        "updatedAt": "2014-10-06T14:37:26.979Z"
+    },
+	{
+        "badAnswer": "between",
+        "createdAt": "2014-10-08T17:09:19.246Z",
+        "goodAnswer": "among",
+        "objectId": "Ls3a3MXljc",
+        "phrase": "She had to choose _____ four universities",
+        "updatedAt": "2014-10-08T17:09:42.879Z"
+    },
+	{
+        "badAnswer": "an",
+        "createdAt": "2014-10-08T10:49:50.123Z",
+        "goodAnswer": "and",
+        "objectId": "M7E9MvuUlc",
+        "phrase": "You ___ I make a beautiful couple",
+        "updatedAt": "2014-10-08T10:49:54.165Z"
+    },
+	{
+        "badAnswer": "convinced",
+        "createdAt": "2014-10-12T16:19:10.036Z",
+        "goodAnswer": "persuaded",
+        "objectId": "M8vqZtIP3z",
+        "phrase": "He _____ me to help him wash his car",
+        "updatedAt": "2014-10-12T16:19:10.036Z"
+    },
+	{
+        "badAnswer": "By",
+        "createdAt": "2014-10-12T16:18:40.864Z",
+        "goodAnswer": "Bye",
+        "objectId": "MyZhSiDu4a",
+        "phrase": "____, I'll see you later",
+        "updatedAt": "2014-10-12T16:18:40.864Z"
+    },
+	{
+        "badAnswer": "is",
+        "createdAt": "2014-10-06T14:35:34.167Z",
+        "goodAnswer": "are",
+        "objectId": "NiJHEipazP",
+        "phrase": "The police ____ coming",
+        "updatedAt": "2014-10-06T14:35:37.699Z"
+    },
+	{
+        "badAnswer": "corroborate",
+        "createdAt": "2014-10-12T16:18:53.620Z",
+        "goodAnswer": "collaborate",
+        "objectId": "NkHY98XzBo",
+        "phrase": "You have to _____ with the people",
+        "updatedAt": "2014-10-12T16:18:53.620Z"
+    },
+	{
+        "badAnswer": "Beside",
+        "createdAt": "2014-10-12T16:18:29.890Z",
+        "goodAnswer": "Besides",
+        "objectId": "NkwBjI8gv1",
+        "phrase": "_____ Luisa, who else want to do it?",
+        "updatedAt": "2014-10-12T16:18:29.890Z"
+    },
+	{
+        "badAnswer": "in",
+        "createdAt": "2014-10-06T14:32:44.951Z",
+        "goodAnswer": "in the",
+        "objectId": "OTJcfPmOSP",
+        "phrase": "I live ____ United States",
+        "updatedAt": "2014-10-06T14:32:51.092Z"
+    },
+	{
+        "badAnswer": "bizarre",
+        "createdAt": "2014-10-12T16:18:28.062Z",
+        "goodAnswer": "bazaar",
+        "objectId": "Oh4ikBFlMA",
+        "phrase": "I must go to the ____",
+        "updatedAt": "2014-10-12T16:18:28.062Z"
+    },
+	{
+        "badAnswer": "appraised",
+        "createdAt": "2014-10-11T05:35:43.163Z",
+        "goodAnswer": "apprised",
+        "objectId": "Ok4erYFckT",
+        "phrase": "Keep me ______ of the situation",
+        "updatedAt": "2014-10-11T05:35:43.163Z"
+    },
+	{
+        "badAnswer": "consecutive",
+        "createdAt": "2014-10-12T16:19:01.392Z",
+        "goodAnswer": "concurrent",
+        "objectId": "PEp1cYlkm4",
+        "phrase": "I can't watch both movies because its premiere is ____",
+        "updatedAt": "2014-10-12T16:19:01.392Z"
+    },
+	{
+        "badAnswer": "Any way",
+        "createdAt": "2014-10-11T05:35:41.139Z",
+        "goodAnswer": "Anyway",
+        "objectId": "PL91wk8XYQ",
+        "phrase": "It’s expensive. ______ people do it",
+        "updatedAt": "2014-10-11T05:35:41.139Z"
+    },
+	{
+        "badAnswer": "arcane",
+        "createdAt": "2014-10-11T05:35:44.765Z",
+        "goodAnswer": "archaic",
+        "objectId": "PNuwWvfHfI",
+        "phrase": "I replaced my _____ vehicle",
+        "updatedAt": "2014-10-11T05:35:44.765Z"
+    },
+	{
+        "badAnswer": "composes",
+        "createdAt": "2014-10-12T16:18:58.930Z",
+        "goodAnswer": "comprises",
+        "objectId": "QC4ylGq02h",
+        "phrase": "The rock _____ three minerals",
+        "updatedAt": "2014-10-12T16:18:58.930Z"
+    },
+	{
+        "badAnswer": "add",
+        "createdAt": "2014-10-07T03:52:30.783Z",
+        "goodAnswer": "ad",
+        "objectId": "QnJilg9zKi",
+        "phrase": "I read an ___ in the newspaper",
+        "updatedAt": "2014-10-07T03:54:09.127Z"
+    },
+	{
+        "badAnswer": "canvass",
+        "createdAt": "2014-10-12T16:18:42.953Z",
+        "goodAnswer": "canvas",
+        "objectId": "Qpe4dqRFpW",
+        "phrase": "A ____ bag to bring to the beach",
+        "updatedAt": "2014-10-12T16:18:42.953Z"
+    },
+	{
+        "badAnswer": "Altogether",
+        "createdAt": "2014-10-08T12:17:15.785Z",
+        "goodAnswer": "All together",
+        "objectId": "QsVJCqEa6q",
+        "phrase": "It’s time to dance. ______ now!",
+        "updatedAt": "2014-10-08T12:17:33.388Z"
+    },
+	{
+        "badAnswer": "number",
+        "createdAt": "2014-10-08T17:13:59.387Z",
+        "goodAnswer": "amount",
+        "objectId": "R3CxUPMd3l",
+        "phrase": "The _______ is less than I thought",
+        "updatedAt": "2014-10-08T17:14:33.646Z"
+    },
+	{
+        "badAnswer": "complement",
+        "createdAt": "2014-10-12T16:18:57.144Z",
+        "goodAnswer": "compliment",
+        "objectId": "RRkyGy63jy",
+        "phrase": "Thanks for the _____",
+        "updatedAt": "2014-10-12T16:18:57.144Z"
+    },
+	{
+        "badAnswer": "assistants",
+        "createdAt": "2014-10-11T05:35:50.821Z",
+        "goodAnswer": "assistance",
+        "objectId": "RTdz0iyJBa",
+        "phrase": "He gave ______ to the patients",
+        "updatedAt": "2014-10-11T05:35:50.821Z"
+    },
+	{
+        "badAnswer": "I",
+        "createdAt": "2014-10-06T14:41:34.577Z",
+        "goodAnswer": "I'll",
+        "objectId": "Rc7X7rSKtP",
+        "phrase": "I promise ____ call you next week",
+        "updatedAt": "2014-10-06T14:41:42.686Z"
+    },
+	{
+        "badAnswer": "annul",
+        "createdAt": "2014-10-11T03:23:55.592Z",
+        "goodAnswer": "annual",
+        "objectId": "Rx1uBddRgP",
+        "phrase": "I must pay the _____ tax",
+        "updatedAt": "2014-10-11T03:23:55.592Z"
+    },
+	{
+        "badAnswer": "allow",
+        "createdAt": "2014-10-07T04:06:29.754Z",
+        "goodAnswer": "aloud",
+        "objectId": "S3umQ5hmmj",
+        "phrase": "The professor said the problem _____",
+        "updatedAt": "2014-10-07T04:06:49.806Z"
+    },
+	{
+        "badAnswer": "not to",
+        "createdAt": "2014-10-06T14:36:02.944Z",
+        "goodAnswer": "not",
+        "objectId": "SOlyNbwcoY",
+        "phrase": "You should ____ smoke",
+        "updatedAt": "2014-10-06T14:36:23.906Z"
+    },
+	{
+        "badAnswer": "eludes",
+        "createdAt": "2014-10-08T12:28:38.482Z",
+        "goodAnswer": "alludes",
+        "objectId": "ShrSOGte2L",
+        "phrase": "The speaker ______ to his fame",
+        "updatedAt": "2014-10-08T12:28:46.683Z"
+    },
+	{
+        "badAnswer": "advice",
+        "createdAt": "2014-10-08T12:14:58.269Z",
+        "goodAnswer": "advise",
+        "objectId": "T5cq9RNYtg",
+        "phrase": "I feel I must _____ you",
+        "updatedAt": "2014-10-08T12:15:02.201Z"
+    },
+	{
+        "badAnswer": "capitol",
+        "createdAt": "2014-10-12T16:18:47.152Z",
+        "goodAnswer": "Capitol",
+        "objectId": "TM9MIlB284",
+        "phrase": "Thomas Reed designed the National _____",
+        "updatedAt": "2014-10-12T16:18:47.152Z"
+    },
+	{
+        "badAnswer": "since",
+        "createdAt": "2014-10-06T14:33:11.586Z",
+        "goodAnswer": "for",
+        "objectId": "U1eccNlbq9",
+        "phrase": "I've been here ____ three months",
+        "updatedAt": "2014-10-06T14:34:36.328Z"
+    },
+	{
+        "badAnswer": "that",
+        "createdAt": "2014-10-07T03:48:33.084Z",
+        "goodAnswer": "who",
+        "objectId": "U4KquHQnDL",
+        "phrase": "The students ____ study Engineering are very intelligent",
+        "updatedAt": "2014-10-07T03:49:01.853Z"
+    },
+	{
+        "badAnswer": "sensor",
+        "createdAt": "2014-10-12T16:18:48.140Z",
+        "goodAnswer": "censor",
+        "objectId": "UAMktkpjoH",
+        "phrase": "They want to ____ my opinion",
+        "updatedAt": "2014-10-12T16:18:48.140Z"
+    },
+	{
+        "badAnswer": "baited",
+        "createdAt": "2014-10-12T16:18:24.012Z",
+        "goodAnswer": "bated",
+        "objectId": "UFk3ZVTcJx",
+        "phrase": "I'm with ____ breath",
+        "updatedAt": "2014-10-12T16:18:24.012Z"
+    },
+	{
+        "badAnswer": "insure",
+        "createdAt": "2014-10-11T05:35:54.062Z",
+        "goodAnswer": "assure",
+        "objectId": "ULZiacKfvB",
+        "phrase": "I ______ you I will change",
+        "updatedAt": "2014-10-11T05:35:54.062Z"
+    },
+	{
+        "badAnswer": "collaborate",
+        "createdAt": "2014-10-12T16:18:54.691Z",
+        "goodAnswer": "corroborate",
+        "objectId": "VGsS2qP9iL",
+        "phrase": "No one has been able to ____ this claim",
+        "updatedAt": "2014-10-12T16:18:54.691Z"
+    },
+	{
+        "badAnswer": "continual",
+        "createdAt": "2014-10-12T16:19:08.957Z",
+        "goodAnswer": "continuous",
+        "objectId": "VVPKCF9Hny",
+        "phrase": "The river flow is _____",
+        "updatedAt": "2014-10-12T16:19:08.957Z"
+    },
+	{
+        "badAnswer": "almost",
+        "createdAt": "2014-10-08T17:03:23.981Z",
+        "goodAnswer": "most",
+        "objectId": "VtTbr7g9Wc",
+        "phrase": "He is the _______ interesting person",
+        "updatedAt": "2014-10-08T17:03:29.075Z"
+    },
+	{
+        "badAnswer": "allusion",
+        "createdAt": "2014-10-08T17:01:28.949Z",
+        "goodAnswer": "illusion",
+        "objectId": "VuEdyBIt8w",
+        "phrase": "She has the ______ that I'm honest ",
+        "updatedAt": "2014-10-08T17:01:46.584Z"
+    },
+	{
+        "badAnswer": "bear",
+        "createdAt": "2014-10-12T16:18:25.361Z",
+        "goodAnswer": "bare",
+        "objectId": "VuXjHhgot5",
+        "phrase": "Walking in grass with ____ feet is refreshing",
+        "updatedAt": "2014-10-12T16:18:25.361Z"
+    },
+	{
+        "badAnswer": "eat",
+        "createdAt": "2014-10-06T14:46:51.229Z",
+        "goodAnswer": "to eat",
+        "objectId": "WKdR0KEDhX",
+        "phrase": "I want ____ now",
+        "updatedAt": "2014-10-06T14:46:55.870Z"
+    },
+	{
+        "badAnswer": "boar",
+        "createdAt": "2014-10-12T16:18:33.807Z",
+        "goodAnswer": "bore",
+        "objectId": "WgQD0dG3su",
+        "phrase": "The graduation speaker was a complete ____",
+        "updatedAt": "2014-10-12T16:18:33.807Z"
+    },
+	{
+        "badAnswer": "among",
+        "createdAt": "2014-10-08T17:07:59.325Z",
+        "goodAnswer": "between",
+        "objectId": "WzJmk6cpJC",
+        "phrase": "I can't decide ______ blue and red",
+        "updatedAt": "2014-10-08T17:08:18.373Z"
+    },
+	{
+        "badAnswer": "compliment",
+        "createdAt": "2014-10-12T16:18:56.044Z",
+        "goodAnswer": "complement",
+        "objectId": "Y5uz3QQ4aq",
+        "phrase": "This item will _____ his collection",
+        "updatedAt": "2014-10-12T16:18:56.044Z"
+    },
+	{
+        "badAnswer": "believe",
+        "createdAt": "2014-10-07T04:15:22.845Z",
+        "goodAnswer": "belief",
+        "objectId": "YZiNjGvQRS",
+        "phrase": "I challenge his ______",
+        "updatedAt": "2014-10-07T04:15:26.680Z"
+    },
+	{
+        "badAnswer": "assured",
+        "createdAt": "2014-10-11T05:35:55.364Z",
+        "goodAnswer": "ensured",
+        "objectId": "ZKw37QOdmS",
+        "phrase": "The study doesn’t _____ me that I'll have a good job",
+        "updatedAt": "2014-10-11T05:39:05.330Z"
+    },
+	{
+        "badAnswer": "as",
+        "createdAt": "2014-10-06T14:47:19.373Z",
+        "goodAnswer": "like",
+        "objectId": "a3rbk0dnwO",
+        "phrase": "You are very nice, ____ your mother",
+        "updatedAt": "2014-10-06T14:47:26.866Z"
+    },
+	{
+        "badAnswer": "bores",
+        "createdAt": "2014-10-12T16:18:34.852Z",
+        "goodAnswer": "boars",
+        "objectId": "aBre9OQppL",
+        "phrase": "Wild ____ abound here",
+        "updatedAt": "2014-10-12T16:18:34.852Z"
+    },
+	{
+        "badAnswer": "continuous",
+        "createdAt": "2014-10-12T16:19:08.037Z",
+        "goodAnswer": "continual",
+        "objectId": "aJbfSjCnOX",
+        "phrase": "The _____ problem of our laptop forced us to sell it",
+        "updatedAt": "2014-10-12T16:19:08.037Z"
+    },
+	{
+        "badAnswer": "then",
+        "createdAt": "2014-10-07T03:38:38.934Z",
+        "goodAnswer": "than",
+        "objectId": "aRBi6PF6nE",
+        "phrase": "I am a faster runner ____ my brother",
+        "updatedAt": "2014-10-07T03:39:12.939Z"
+    },
+	{
+        "badAnswer": "replay",
+        "createdAt": "2014-10-07T04:40:13.822Z",
+        "goodAnswer": "reply",
+        "objectId": "aTM4z5y0vo",
+        "phrase": "I can't ___ to your question",
+        "updatedAt": "2014-10-11T02:05:26.315Z"
+    },
+	{
+        "badAnswer": "archaic",
+        "createdAt": "2014-10-11T05:35:45.300Z",
+        "goodAnswer": "arcane",
+        "objectId": "aoRXFYZZsN",
+        "phrase": "I don’t understand quantum physics. It is very ______",
+        "updatedAt": "2014-10-11T05:35:45.300Z"
+    },
+	{
+        "badAnswer": "bridal",
+        "createdAt": "2014-10-12T16:18:40.372Z",
+        "goodAnswer": "bridle",
+        "objectId": "bD4WQk6nll",
+        "phrase": "Holding a horse by the _____",
+        "updatedAt": "2014-10-12T16:18:40.372Z"
+    },
+	{
+        "badAnswer": "isle",
+        "createdAt": "2014-10-06T14:11:33.526Z",
+        "goodAnswer": "aisle",
+        "objectId": "buEDEUGWP4",
+        "phrase": "You can find soap in _____ five",
+        "updatedAt": "2014-10-06T14:11:40.742Z"
+    },
+	{
+        "badAnswer": "comprised",
+        "createdAt": "2014-10-12T16:18:59.677Z",
+        "goodAnswer": "composed",
+        "objectId": "cD6hWZXbcE",
+        "phrase": "The rock is _____ of three minerals",
+        "updatedAt": "2014-10-12T16:18:59.677Z"
+    },
+	{
+        "badAnswer": "acceded",
+        "createdAt": "2014-10-08T10:52:01.333Z",
+        "goodAnswer": "exceed",
+        "objectId": "cEMJUTZ5O5",
+        "phrase": "The alcohol in his bleed _____ the previous record",
+        "updatedAt": "2014-10-08T10:52:23.346Z"
+    },
+	{
+        "badAnswer": "biennial",
+        "createdAt": "2014-10-12T16:18:32.310Z",
+        "goodAnswer": "biannual",
+        "objectId": "cZa6Arv8cS",
+        "phrase": "It's a _____ event. I have to go twice in one year",
+        "updatedAt": "2014-10-12T16:18:32.310Z"
+    },
+	{
+        "badAnswer": "then",
+        "createdAt": "2014-10-06T13:58:14.045Z",
+        "goodAnswer": "than",
+        "objectId": "cytdieh676",
+        "phrase": "He is better ____ me",
+        "updatedAt": "2014-10-06T13:58:18.538Z"
+    },
+	{
+        "badAnswer": "apprised",
+        "createdAt": "2014-10-11T05:35:44.263Z",
+        "goodAnswer": "appraised",
+        "objectId": "d1MDjUNaq1",
+        "phrase": "I'm being ______ by a doctor",
+        "updatedAt": "2014-10-11T05:35:44.263Z"
+    },
+	{
+        "badAnswer": "capitol",
+        "createdAt": "2014-10-12T16:18:45.510Z",
+        "goodAnswer": "capital",
+        "objectId": "dIB2HUkmQh",
+        "phrase": "Caracas is the _____ of Venezuela",
+        "updatedAt": "2014-10-12T16:18:45.510Z"
+    },
+	{
+        "badAnswer": "congenial",
+        "createdAt": "2014-10-12T16:19:03.610Z",
+        "goodAnswer": "congenital",
+        "objectId": "dp6oilXphY",
+        "phrase": "There are many studies about ____ defects",
+        "updatedAt": "2014-10-12T16:19:03.610Z"
+    },
+	{
+        "badAnswer": "all together",
+        "createdAt": "2014-10-08T12:18:14.785Z",
+        "goodAnswer": "altogether",
+        "objectId": "dtMeY53Wa8",
+        "phrase": "It cost over a thousand dollars ______",
+        "updatedAt": "2014-10-08T12:18:22.503Z"
+    },
+	{
+        "badAnswer": "exceed",
+        "createdAt": "2014-10-08T10:50:52.355Z",
+        "goodAnswer": "acceded",
+        "objectId": "e1PlDEKAAC",
+        "phrase": "She finally ______ to be the CEO",
+        "updatedAt": "2014-10-08T10:51:38.307Z"
+    },
+	{
+        "badAnswer": "crutch",
+        "createdAt": "2014-10-06T14:03:33.507Z",
+        "goodAnswer": "crotch",
+        "objectId": "eBPegIXpIt",
+        "phrase": "My ____ hurts",
+        "updatedAt": "2014-10-06T14:30:12.170Z"
+    },
+	{
+        "badAnswer": "capital",
+        "createdAt": "2014-10-12T16:18:46.020Z",
+        "goodAnswer": "capitol",
+        "objectId": "eCn2mAGEQX",
+        "phrase": "Most ____ buildings have offices for legislators",
+        "updatedAt": "2014-10-12T16:18:46.020Z"
+    },
+	{
+        "badAnswer": "will be",
+        "createdAt": "2014-10-06T14:49:37.714Z",
+        "goodAnswer": "am",
+        "objectId": "eaVE2x18jA",
+        "phrase": "If I _____ in London, I will contact to you",
+        "updatedAt": "2014-10-06T14:50:29.922Z"
+    },
+	{
+        "badAnswer": "allot",
+        "createdAt": "2014-10-06T13:55:37.903Z",
+        "goodAnswer": "a lot",
+        "objectId": "efCDbIhOIq",
+        "phrase": "I do ____ of things",
+        "updatedAt": "2014-10-06T13:55:45.551Z"
+    },
+	{
+        "badAnswer": "conscious",
+        "createdAt": "2014-10-12T16:19:06.119Z",
+        "goodAnswer": "conscience",
+        "objectId": "egoW3LEHwr",
+        "phrase": "A person of unflagging ____",
+        "updatedAt": "2014-10-12T16:19:06.119Z"
+    },
+	{
+        "badAnswer": "amiable",
+        "createdAt": "2014-10-08T17:10:26.781Z",
+        "goodAnswer": "amicable",
+        "objectId": "epYlGt6nAY",
+        "phrase": "Two countries came to an ______ agreement",
+        "updatedAt": "2014-10-08T17:10:51.956Z"
+    },
+	{
+        "badAnswer": "coarse",
+        "createdAt": "2014-10-12T16:18:52.578Z",
+        "goodAnswer": "course",
+        "objectId": "fdY5xHtyvG",
+        "phrase": "He decided to drop the ____",
+        "updatedAt": "2014-10-12T16:18:52.578Z"
+    },
+	{
+        "badAnswer": "boring",
+        "createdAt": "2014-10-06T14:18:08.557Z",
+        "goodAnswer": "bored",
+        "objectId": "foJK2mnZMP",
+        "phrase": "She was _____ in the class",
+        "updatedAt": "2014-10-06T14:18:12.796Z"
+    },
+	{
+        "badAnswer": "climatic",
+        "createdAt": "2014-10-12T16:18:50.048Z",
+        "goodAnswer": "climactic",
+        "objectId": "fuMN21j9h4",
+        "phrase": "He fell asleep at the ____ moment of the film",
+        "updatedAt": "2014-10-12T16:18:50.048Z"
+    },
+	{
+        "badAnswer": "custome",
+        "createdAt": "2014-10-07T04:26:51.175Z",
+        "goodAnswer": "custom",
+        "objectId": "fzagTndYF8",
+        "phrase": "The ______ car was designed for me",
+        "updatedAt": "2014-10-07T04:27:57.663Z"
+    },
+	{
+        "badAnswer": "to call",
+        "createdAt": "2014-10-06T14:27:32.876Z",
+        "goodAnswer": "call",
+        "objectId": "ggvDd0w46R",
+        "phrase": "I must _____ him immediately",
+        "updatedAt": "2014-10-06T14:28:46.907Z"
+    },
+	{
+        "badAnswer": "confident",
+        "createdAt": "2014-10-07T04:21:40.893Z",
+        "goodAnswer": "confidant",
+        "objectId": "h1SzSdYc9S",
+        "phrase": "She kept no secrets from her _______",
+        "updatedAt": "2014-10-07T04:21:46.322Z"
+    },
+	{
+        "badAnswer": "badly",
+        "createdAt": "2014-10-12T16:18:18.616Z",
+        "goodAnswer": "bad",
+        "objectId": "h7gHeBcifF",
+        "phrase": "Please don’t feel ____ about forgetting to call me",
+        "updatedAt": "2014-10-12T16:18:18.616Z"
+    },
+	{
+        "badAnswer": "bazaar",
+        "createdAt": "2014-10-12T16:18:27.148Z",
+        "goodAnswer": "bizarre",
+        "objectId": "hpW9lsN8R8",
+        "phrase": "It's a ____ story",
+        "updatedAt": "2014-10-12T16:18:27.148Z"
+    },
+	{
+        "badAnswer": "concurrent",
+        "createdAt": "2014-10-12T16:19:00.651Z",
+        "goodAnswer": "consecutive",
+        "objectId": "htBntgaGrI",
+        "phrase": "They will have to play soccer on three _____ nights",
+        "updatedAt": "2014-10-12T16:19:00.651Z"
+    },
+	{
+        "badAnswer": "course",
+        "createdAt": "2014-10-12T16:18:51.481Z",
+        "goodAnswer": "coarse",
+        "objectId": "i5kVb8c8cu",
+        "phrase": "I dislike the ____ language",
+        "updatedAt": "2014-10-12T16:18:51.481Z"
+    },
+	{
+        "badAnswer": "aspersion",
+        "createdAt": "2014-10-11T05:35:50.348Z",
+        "goodAnswer": "dispersion",
+        "objectId": "iJSoNXOXK6",
+        "phrase": "A measure of statistical _____ is a nonnegative real number",
+        "updatedAt": "2014-10-11T05:35:50.348Z"
+    },
+	{
+        "badAnswer": "besides",
+        "createdAt": "2014-10-12T16:18:28.793Z",
+        "goodAnswer": "beside",
+        "objectId": "iJtxw37ybX",
+        "phrase": "Come and sit ____ me",
+        "updatedAt": "2014-10-12T16:18:28.793Z"
+    },
+	{
+        "badAnswer": "hanger",
+        "createdAt": "2014-10-06T14:05:36.713Z",
+        "goodAnswer": "hangar",
+        "objectId": "ibcrZ7aVfn",
+        "phrase": "The airplane is in the _____",
+        "updatedAt": "2014-10-06T14:05:50.675Z"
+    },
+	{
+        "badAnswer": "compliment",
+        "createdAt": "2014-10-12T16:18:58.377Z",
+        "goodAnswer": "complement",
+        "objectId": "icCduXwfRi",
+        "phrase": "He has a full _____ of old cars",
+        "updatedAt": "2014-10-12T16:18:58.377Z"
+    },
+	{
+        "badAnswer": "an",
+        "createdAt": "2014-10-07T03:46:00.866Z",
+        "goodAnswer": "a",
+        "objectId": "ieeusGJlbE",
+        "phrase": "I would like ___ banana",
+        "updatedAt": "2014-10-07T03:46:04.537Z"
+    },
+	{
+        "badAnswer": "has",
+        "createdAt": "2014-10-06T14:45:47.397Z",
+        "goodAnswer": "is",
+        "objectId": "irmnrmYGM2",
+        "phrase": "My brother ____ 10 years old",
+        "updatedAt": "2014-10-06T14:45:59.762Z"
+    },
+	{
+        "badAnswer": "bare",
+        "createdAt": "2014-10-12T16:18:26.151Z",
+        "goodAnswer": "bear",
+        "objectId": "j0QaQE5pRU",
+        "phrase": "He must ____ the burden of flunking spanish twice",
+        "updatedAt": "2014-10-12T16:18:26.151Z"
+    },
+	{
+        "badAnswer": "advise",
+        "createdAt": "2014-10-07T03:57:00.513Z",
+        "goodAnswer": "advice",
+        "objectId": "jp0CsdOMHH",
+        "phrase": "Give me some ______ about planning trips",
+        "updatedAt": "2014-10-07T03:57:19.158Z"
+    },
+	{
+        "badAnswer": "Anyway",
+        "createdAt": "2014-10-11T05:35:41.600Z",
+        "goodAnswer": "Any way",
+        "objectId": "k6GuvXBEcO",
+        "phrase": "______ you choose will be good for you",
+        "updatedAt": "2014-10-11T05:35:41.600Z"
+    },
+	{
+        "badAnswer": "decent",
+        "createdAt": "2014-10-07T04:28:28.064Z",
+        "goodAnswer": "descent",
+        "objectId": "kFzewFyaqg",
+        "phrase": "My mom is of Colombia ______",
+        "updatedAt": "2014-10-07T04:29:42.381Z"
+    },
+	{
+        "badAnswer": "allude",
+        "createdAt": "2014-10-08T12:22:11.007Z",
+        "goodAnswer": "elude",
+        "objectId": "kTMANrujUY",
+        "phrase": "Women _____ him",
+        "updatedAt": "2014-10-08T12:22:21.819Z"
+    },
+	{
+        "badAnswer": "ensure",
+        "createdAt": "2014-10-11T05:35:52.351Z",
+        "goodAnswer": "assure",
+        "objectId": "khS4312WDL",
+        "phrase": "I _____ you that I will",
+        "updatedAt": "2014-10-11T05:35:52.351Z"
+    },
+	{
+        "badAnswer": "Averse",
+        "createdAt": "2014-10-08T12:01:44.358Z",
+        "goodAnswer": "Adverse",
+        "objectId": "klED6iOSFW",
+        "phrase": "______ publicity hits their profits",
+        "updatedAt": "2014-10-08T12:01:49.208Z"
+    },
+	{
+        "badAnswer": "good",
+        "createdAt": "2014-10-12T16:18:22.973Z",
+        "goodAnswer": "well",
+        "objectId": "kq3XRI1Jil",
+        "phrase": "If you don’t feel ____ don’t do it",
+        "updatedAt": "2014-10-12T16:18:22.973Z"
+    },
+	{
+        "badAnswer": "born",
+        "createdAt": "2014-10-06T13:58:51.673Z",
+        "goodAnswer": "borne",
+        "objectId": "kx7DjqSeIF",
+        "phrase": "The air ____ diseases",
+        "updatedAt": "2014-10-06T13:59:04.174Z"
+    },
+	{
+        "badAnswer": "said",
+        "createdAt": "2014-10-06T14:47:47.329Z",
+        "goodAnswer": "told",
+        "objectId": "leI0xqcEB8",
+        "phrase": "She ____ me that she liked you",
+        "updatedAt": "2014-10-06T14:47:52.242Z"
+    },
+	{
+        "badAnswer": "ascribed",
+        "createdAt": "2014-10-11T05:35:49.379Z",
+        "goodAnswer": "described",
+        "objectId": "lqiDb0qufY",
+        "phrase": "He _____ as a happy person",
+        "updatedAt": "2014-10-11T05:35:49.379Z"
+    },
+	{
+        "badAnswer": "amount",
+        "createdAt": "2014-10-08T17:15:28.379Z",
+        "goodAnswer": "number",
+        "objectId": "m4r1gsVNJc",
+        "phrase": "The ______ of people who is on the beach is too few",
+        "updatedAt": "2014-10-08T17:16:12.655Z"
+    },
+	{
+        "badAnswer": "ensure",
+        "createdAt": "2014-10-11T05:35:54.873Z",
+        "goodAnswer": "insure",
+        "objectId": "mfR4BLArRg",
+        "phrase": "I’ll _____ my company as required by law",
+        "updatedAt": "2014-10-11T05:35:54.873Z"
+    },
+	{
+        "badAnswer": "you're",
+        "createdAt": "2014-10-08T10:44:33.676Z",
+        "goodAnswer": "your",
+        "objectId": "mh5hssaKKu",
+        "phrase": "Please give me ______ pencil",
+        "updatedAt": "2014-10-08T10:44:40.293Z"
+    },
+	{
+        "badAnswer": "during",
+        "createdAt": "2014-10-06T14:43:23.072Z",
+        "goodAnswer": "for",
+        "objectId": "nGFS4x2sSm",
+        "phrase": "We studied ____ four hours",
+        "updatedAt": "2014-10-06T14:43:27.382Z"
+    },
+	{
+        "badAnswer": "always",
+        "createdAt": "2014-10-08T12:20:07.274Z",
+        "goodAnswer": "all ways",
+        "objectId": "nUns3wPtXh",
+        "phrase": "I tried to do in _____",
+        "updatedAt": "2014-10-08T12:20:11.987Z"
+    },
+	{
+        "badAnswer": "bye",
+        "createdAt": "2014-10-12T16:18:41.532Z",
+        "goodAnswer": "by",
+        "objectId": "o2UjUq5uEY",
+        "phrase": "He stood ___ the door",
+        "updatedAt": "2014-10-12T16:18:41.532Z"
+    },
+	{
+        "badAnswer": "amicable",
+        "createdAt": "2014-10-08T17:11:47.777Z",
+        "goodAnswer": "amiable",
+        "objectId": "oTbAQYLzJI",
+        "phrase": "She is very ______ ",
+        "updatedAt": "2014-10-08T17:12:23.025Z"
+    },
+	{
+        "badAnswer": "accent",
+        "createdAt": "2014-10-11T05:35:46.258Z",
+        "goodAnswer": "assent",
+        "objectId": "oaLpaWRfzw",
+        "phrase": "He gave his _____ quickly",
+        "updatedAt": "2014-10-11T05:35:46.258Z"
+    },
+	{
+        "badAnswer": "illusion",
+        "createdAt": "2014-10-08T17:00:39.232Z",
+        "goodAnswer": "allusion",
+        "objectId": "oknhiumLnE",
+        "phrase": "Her blog made an ______ to his criminal past",
+        "updatedAt": "2014-10-08T17:00:44.143Z"
+    },
+	{
+        "badAnswer": "came",
+        "createdAt": "2014-10-06T14:48:14.334Z",
+        "goodAnswer": "came to",
+        "objectId": "os8tM9iw3I",
+        "phrase": "I ____ Australia to study English",
+        "updatedAt": "2014-10-06T14:48:19.710Z"
+    },
+	{
+        "badAnswer": "airs",
+        "createdAt": "2014-10-08T12:15:45.160Z",
+        "goodAnswer": "heirs",
+        "objectId": "ou8JsLXZyw",
+        "phrase": "You are my ____",
+        "updatedAt": "2014-10-08T12:15:49.140Z"
+    },
+	{
+        "badAnswer": "any one",
+        "createdAt": "2014-10-11T05:35:39.929Z",
+        "goodAnswer": "anyone",
+        "objectId": "oykUNG2Gyc",
+        "phrase": "﻿I’ll give this to ______ who wants it",
+        "updatedAt": "2014-10-11T05:35:39.929Z"
+    },
+	{
+        "badAnswer": "censor",
+        "createdAt": "2014-10-12T16:18:47.661Z",
+        "goodAnswer": "sensor",
+        "objectId": "pMdgufIsSo",
+        "phrase": "An infrared ____",
+        "updatedAt": "2014-10-12T16:18:47.661Z"
+    },
+	{
+        "badAnswer": "assure",
+        "createdAt": "2014-10-11T05:35:53.457Z",
+        "goodAnswer": "ensure",
+        "objectId": "pju3tCCWjz",
+        "phrase": "These blankets _____ that you’ll be warm enough",
+        "updatedAt": "2014-10-11T05:35:53.457Z"
+    },
+	{
+        "badAnswer": "adapt",
+        "createdAt": "2014-10-08T10:52:41.018Z",
+        "goodAnswer": "adept",
+        "objectId": "plIFDl0IxI",
+        "phrase": "He is _____ at speaking languages",
+        "updatedAt": "2014-10-08T10:53:01.888Z"
+    },
+	{
+        "badAnswer": "belief",
+        "createdAt": "2014-10-07T04:15:38.101Z",
+        "goodAnswer": "believe",
+        "objectId": "pxUQusDrFI",
+        "phrase": "I ______ in him",
+        "updatedAt": "2014-10-07T04:15:43.473Z"
+    },
+	{
+        "badAnswer": "Most",
+        "createdAt": "2014-10-08T17:02:19.187Z",
+        "goodAnswer": "Almost",
+        "objectId": "q3yLror480",
+        "phrase": "_______ all my friends are 20 years old",
+        "updatedAt": "2014-10-08T17:02:31.935Z"
+    },
+	{
+        "badAnswer": "lend",
+        "createdAt": "2014-10-12T16:18:37.645Z",
+        "goodAnswer": "borrow",
+        "objectId": "qLqxkCHYBQ",
+        "phrase": "I'll ____ her book",
+        "updatedAt": "2014-10-12T16:18:37.645Z"
+    },
+	{
+        "badAnswer": "can to",
+        "createdAt": "2014-10-06T14:31:31.150Z",
+        "goodAnswer": "can",
+        "objectId": "rm1KmnQt0a",
+        "phrase": "She ____ drive",
+        "updatedAt": "2014-10-06T14:31:43.414Z"
+    },
+	{
+        "badAnswer": "bemused",
+        "createdAt": "2014-10-11T03:23:54.496Z",
+        "goodAnswer": "amused",
+        "objectId": "s71cf6n2A4",
+        "phrase": "He was ______ by your awesome talent",
+        "updatedAt": "2014-10-11T05:08:10.271Z"
+    },
+	{
+        "badAnswer": "censored",
+        "createdAt": "2014-10-12T16:18:48.788Z",
+        "goodAnswer": "censured",
+        "objectId": "sMbvSF9OTB",
+        "phrase": "They're tired of being ____ or criticized",
+        "updatedAt": "2014-10-12T16:18:48.788Z"
+    },
+	{
+        "badAnswer": "aid",
+        "createdAt": "2014-10-07T04:03:40.102Z",
+        "goodAnswer": "aide",
+        "objectId": "ttMIbTbEdF",
+        "phrase": "The ____ is 20 years old",
+        "updatedAt": "2014-10-07T04:03:44.217Z"
+    },
+	{
+        "badAnswer": "breath",
+        "createdAt": "2014-10-07T04:16:58.706Z",
+        "goodAnswer": "breathe",
+        "objectId": "tzPCqUuAQO",
+        "phrase": "You ______ the air",
+        "updatedAt": "2014-10-07T04:17:04.703Z"
+    },
+	{
+        "badAnswer": "augur",
+        "createdAt": "2014-10-11T05:35:56.595Z",
+        "goodAnswer": "auger",
+        "objectId": "uFgTKjM9XA",
+        "phrase": "You have to drill a hole with an _____",
+        "updatedAt": "2014-10-11T05:35:56.595Z"
+    },
+	{
+        "badAnswer": "anyone",
+        "createdAt": "2014-10-11T05:35:40.646Z",
+        "goodAnswer": "any one",
+        "objectId": "uKgSUkYCxA",
+        "phrase": "I'll give this to ______ of your buddies",
+        "updatedAt": "2014-10-11T05:35:40.646Z"
+    },
+	{
+        "badAnswer": "congenital",
+        "createdAt": "2014-10-12T16:19:04.086Z",
+        "goodAnswer": "congenial",
+        "objectId": "ua8vt30YQw",
+        "phrase": "A _____ atmosphere to work in",
+        "updatedAt": "2014-10-12T16:19:04.086Z"
+    },
+	{
+        "badAnswer": "descent",
+        "createdAt": "2014-10-07T04:30:16.486Z",
+        "goodAnswer": "decent",
+        "objectId": "vDRenYqkLc",
+        "phrase": "The food seems to be ______",
+        "updatedAt": "2014-10-07T04:30:46.789Z"
+    },
+	{
+        "badAnswer": "adept",
+        "createdAt": "2014-10-08T10:54:02.876Z",
+        "goodAnswer": "adopt",
+        "objectId": "wBgrmdKnBX",
+        "phrase": "It was difficult to _____ only one dog",
+        "updatedAt": "2014-10-08T10:54:22.361Z"
+    },
+	{
+        "badAnswer": "advice",
+        "createdAt": "2014-10-07T03:59:20.439Z",
+        "goodAnswer": "advise",
+        "objectId": "wU1GwPtWNY",
+        "phrase": "I ______ not to smoke",
+        "updatedAt": "2014-10-07T03:59:25.322Z"
+    },
+	{
+        "badAnswer": "a part",
+        "createdAt": "2014-10-11T05:35:42.073Z",
+        "goodAnswer": "apart",
+        "objectId": "x0yTMY43Jy",
+        "phrase": "Our plan for tonight fell _____",
+        "updatedAt": "2014-10-11T05:35:42.073Z"
+    },
+	{
+        "badAnswer": "conform",
+        "createdAt": "2014-10-12T16:19:02.920Z",
+        "goodAnswer": "confirm",
+        "objectId": "x9vi0j2tYb",
+        "phrase": "Please ____ your flight reservation",
+        "updatedAt": "2014-10-12T16:19:02.920Z"
+    },
+	{
+        "badAnswer": "aloud",
+        "createdAt": "2014-10-07T04:07:50.308Z",
+        "goodAnswer": "allow",
+        "objectId": "xEQNRrTNLD",
+        "phrase": "I don't _____ pets",
+        "updatedAt": "2014-10-07T04:07:54.204Z"
+    },
+	{
+        "badAnswer": "reminder",
+        "createdAt": "2014-10-07T04:38:35.653Z",
+        "goodAnswer": "remainder",
+        "objectId": "xTBKIl6vu4",
+        "phrase": "The _______ of the division is two",
+        "updatedAt": "2014-10-07T04:38:55.766Z"
+    },
+	{
+        "badAnswer": "cautious",
+        "createdAt": "2014-10-12T16:18:20.934Z",
+        "goodAnswer": "cautiously",
+        "objectId": "xW36n6Pg1o",
+        "phrase": "He looked _____ at the man ahead of him",
+        "updatedAt": "2014-10-12T16:18:20.934Z"
+    },
+	{
+        "badAnswer": "cautiously",
+        "createdAt": "2014-10-12T16:18:21.643Z",
+        "goodAnswer": "cautious",
+        "objectId": "xZQjoSyB1o",
+        "phrase": "She feels _____ when walking alone at night",
+        "updatedAt": "2014-10-12T16:18:21.643Z"
+    },
+	{
+        "badAnswer": "what",
+        "createdAt": "2014-10-06T14:44:07.521Z",
+        "goodAnswer": "that",
+        "objectId": "yG4vLyNO1T",
+        "phrase": "You cannot buy all ____ you like!",
+        "updatedAt": "2014-10-06T14:44:12.183Z"
+    },
+	{
+        "badAnswer": "Apart",
+        "createdAt": "2014-10-11T05:35:42.558Z",
+        "goodAnswer": "A part",
+        "objectId": "yLXrohVxSW",
+        "phrase": "_____ of the profits is mine",
+        "updatedAt": "2014-10-11T05:35:42.558Z"
+    },
+	{
+        "badAnswer": "biannual",
+        "createdAt": "2014-10-12T16:18:30.972Z",
+        "goodAnswer": "biennial",
+        "objectId": "yxmLoJQ0aZ",
+        "phrase": "These flowers are _____. They bloom every two years",
+        "updatedAt": "2014-10-12T16:18:30.972Z"
+    },
+	{
+        "badAnswer": "site",
+        "createdAt": "2014-10-07T04:19:50.064Z",
+        "goodAnswer": "cite",
+        "objectId": "yxrkajts1E",
+        "phrase": "You have to _____ the sources of information",
+        "updatedAt": "2014-10-07T04:19:55.847Z"
+    },
+	{
+        "badAnswer": "well",
+        "createdAt": "2014-10-12T16:18:22.441Z",
+        "goodAnswer": "good",
+        "objectId": "zFF8FM3cL1",
+        "phrase": "He smelled ____",
+        "updatedAt": "2014-10-12T16:18:22.441Z"
+    },
+	{
+        "badAnswer": "by",
+        "createdAt": "2014-10-12T16:18:42.201Z",
+        "goodAnswer": "buy",
+        "objectId": "zdvihXmcRD",
+        "phrase": "I want to ___ it",
+        "updatedAt": "2014-10-12T16:18:42.201Z"
+    }
+] }

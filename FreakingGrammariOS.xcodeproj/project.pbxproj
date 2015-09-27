@@ -1,0 +1,731 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		35D9B4FA9A1E4F70894C12EB /* libPods-FreakingGrammariOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 732A3EF757124624A55EF47C /* libPods-FreakingGrammariOS.a */; };
+		3B1862F71BB8896600C352A5 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3B1862F61BB8896600C352A5 /* GoogleService-Info.plist */; settings = {ASSET_TAGS = (); }; };
+		3B39D72F1B21309100CD95DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B39D72D1B21309100CD95DB /* Main.storyboard */; };
+		3B39D7391B21457800CD95DB /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B39D7381B21457800CD95DB /* AudioToolbox.framework */; };
+		3B39D73B1B21458900CD95DB /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B39D73A1B21458900CD95DB /* CFNetwork.framework */; };
+		3B39D73D1B21459200CD95DB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B39D73C1B21459200CD95DB /* CoreGraphics.framework */; };
+		3B39D73F1B21459A00CD95DB /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B39D73E1B21459A00CD95DB /* CoreLocation.framework */; };
+		3B39D7411B2145A200CD95DB /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B39D7401B2145A200CD95DB /* MobileCoreServices.framework */; };
+		3B39D7431B2145A900CD95DB /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B39D7421B2145A900CD95DB /* QuartzCore.framework */; };
+		3B39D7451B2145B000CD95DB /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B39D7441B2145B000CD95DB /* Security.framework */; };
+		3B39D7491B2145BF00CD95DB /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B39D7481B2145BF00CD95DB /* SystemConfiguration.framework */; };
+		3B39D7541B21488F00CD95DB /* Pregunta.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B39D7531B21488F00CD95DB /* Pregunta.m */; };
+		3B39D7571B22403C00CD95DB /* PlayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B39D7561B22403C00CD95DB /* PlayViewController.m */; };
+		3B39D75A1B248B1900CD95DB /* ParejaColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B39D7591B248B1900CD95DB /* ParejaColor.m */; };
+		3B39D75D1B25217200CD95DB /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B39D75C1B25217200CD95DB /* Social.framework */; };
+		3B39D75F1B25217B00CD95DB /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B39D75E1B25217B00CD95DB /* Accounts.framework */; };
+		3B39D76A1B25FCF700CD95DB /* sound_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B39D7681B25FCF700CD95DB /* sound_icon.png */; };
+		3B39D76B1B25FCF700CD95DB /* sound_off_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B39D7691B25FCF700CD95DB /* sound_off_icon.png */; };
+		3B39D76F1B26035300CD95DB /* mal.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3B39D76D1B26035300CD95DB /* mal.wav */; };
+		3B39D7701B26035300CD95DB /* paso.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3B39D76E1B26035300CD95DB /* paso.wav */; };
+		3B5C5D0A1B2F895700012140 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B5C5D091B2F895700012140 /* AppDelegate.m */; };
+		3B61E7661B2D1CB00021B03F /* medalla_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B61E7631B2D1CB00021B03F /* medalla_icon.png */; };
+		3B61E7671B2D1CB00021B03F /* play_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B61E7641B2D1CB00021B03F /* play_icon.png */; };
+		3B61E7681B2D1CB00021B03F /* podio_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B61E7651B2D1CB00021B03F /* podio_icon.png */; };
+		3B61E76A1B2D22FA0021B03F /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B61E7691B2D22FA0021B03F /* AddressBook.framework */; };
+		3B61E76C1B2D23020021B03F /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B61E76B1B2D23020021B03F /* AssetsLibrary.framework */; };
+		3B61E76E1B2D230C0021B03F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B61E76D1B2D230C0021B03F /* Foundation.framework */; };
+		3B61E7701B2D23190021B03F /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B61E76F1B2D23190021B03F /* CoreMotion.framework */; };
+		3B61E7721B2D23220021B03F /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B61E7711B2D23220021B03F /* CoreText.framework */; };
+		3B61E7741B2D232B0021B03F /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B61E7731B2D232B0021B03F /* MediaPlayer.framework */; };
+		3B61E7761B2D234C0021B03F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B61E7751B2D234C0021B03F /* UIKit.framework */; };
+		3B61E77D1B2D23B50021B03F /* GoogleOpenSource.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B61E77B1B2D23B50021B03F /* GoogleOpenSource.framework */; };
+		3B61E7801B2D23DB0021B03F /* GooglePlus.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 3B61E77F1B2D23DB0021B03F /* GooglePlus.bundle */; };
+		3B61E7851B2D347D0021B03F /* GooglePlus.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B61E7841B2D347D0021B03F /* GooglePlus.framework */; };
+		3B61E7891B2E045D0021B03F /* GPGIds.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3B61E7881B2E045D0021B03F /* GPGIds.plist */; };
+		3BBDCAB419EDA448003C5EE1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BBDCAB319EDA448003C5EE1 /* main.m */; };
+		3BBDCABA19EDA448003C5EE1 /* LanguagesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BBDCAB919EDA448003C5EE1 /* LanguagesViewController.m */; };
+		3BBDCABF19EDA448003C5EE1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BBDCABE19EDA448003C5EE1 /* Images.xcassets */; };
+		3BBDCAC219EDA448003C5EE1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3BBDCAC019EDA448003C5EE1 /* LaunchScreen.xib */; };
+		3BBDCACE19EDA448003C5EE1 /* FreakingGrammariOSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BBDCACD19EDA448003C5EE1 /* FreakingGrammariOSTests.m */; };
+		3BEF09DE19EE152500F243DF /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3BEF09E019EE152500F243DF /* Localizable.strings */; };
+		3BEF09E519F0296D00F243DF /* MenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BEF09E419F0296D00F243DF /* MenuViewController.m */; };
+		3BF9DAD81B3110BC0003297C /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BF9DAD71B3110BC0003297C /* CoreData.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3BBDCAC819EDA448003C5EE1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3BBDCAA619EDA448003C5EE1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3BBDCAAD19EDA448003C5EE1;
+			remoteInfo = FreakingGrammariOS;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3B1862F61BB8896600C352A5 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		3B39D72E1B21309100CD95DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = FreakingGrammariOS/Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3B39D7381B21457800CD95DB /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		3B39D73A1B21458900CD95DB /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		3B39D73C1B21459200CD95DB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		3B39D73E1B21459A00CD95DB /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		3B39D7401B2145A200CD95DB /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		3B39D7421B2145A900CD95DB /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		3B39D7441B2145B000CD95DB /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		3B39D7481B2145BF00CD95DB /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		3B39D7521B21488F00CD95DB /* Pregunta.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Pregunta.h; sourceTree = "<group>"; };
+		3B39D7531B21488F00CD95DB /* Pregunta.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Pregunta.m; sourceTree = "<group>"; };
+		3B39D7551B22403C00CD95DB /* PlayViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PlayViewController.h; path = FreakingGrammariOS/PlayViewController.h; sourceTree = "<group>"; };
+		3B39D7561B22403C00CD95DB /* PlayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PlayViewController.m; path = FreakingGrammariOS/PlayViewController.m; sourceTree = "<group>"; };
+		3B39D7581B248B1900CD95DB /* ParejaColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ParejaColor.h; sourceTree = "<group>"; };
+		3B39D7591B248B1900CD95DB /* ParejaColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ParejaColor.m; sourceTree = "<group>"; };
+		3B39D75C1B25217200CD95DB /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
+		3B39D75E1B25217B00CD95DB /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = System/Library/Frameworks/Accounts.framework; sourceTree = SDKROOT; };
+		3B39D7681B25FCF700CD95DB /* sound_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sound_icon.png; sourceTree = "<group>"; };
+		3B39D7691B25FCF700CD95DB /* sound_off_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sound_off_icon.png; sourceTree = "<group>"; };
+		3B39D76D1B26035300CD95DB /* mal.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = mal.wav; sourceTree = "<group>"; };
+		3B39D76E1B26035300CD95DB /* paso.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = paso.wav; sourceTree = "<group>"; };
+		3B5C5D091B2F895700012140 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3B61E7631B2D1CB00021B03F /* medalla_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = medalla_icon.png; sourceTree = "<group>"; };
+		3B61E7641B2D1CB00021B03F /* play_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play_icon.png; sourceTree = "<group>"; };
+		3B61E7651B2D1CB00021B03F /* podio_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = podio_icon.png; sourceTree = "<group>"; };
+		3B61E7691B2D22FA0021B03F /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
+		3B61E76B1B2D23020021B03F /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
+		3B61E76D1B2D230C0021B03F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		3B61E76F1B2D23190021B03F /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		3B61E7711B2D23220021B03F /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
+		3B61E7731B2D232B0021B03F /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		3B61E7751B2D234C0021B03F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		3B61E77B1B2D23B50021B03F /* GoogleOpenSource.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleOpenSource.framework; sourceTree = "<group>"; };
+		3B61E77F1B2D23DB0021B03F /* GooglePlus.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = GooglePlus.bundle; sourceTree = "<group>"; };
+		3B61E7841B2D347D0021B03F /* GooglePlus.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GooglePlus.framework; sourceTree = "<group>"; };
+		3B61E7881B2E045D0021B03F /* GPGIds.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = GPGIds.plist; path = ../GPGIds.plist; sourceTree = "<group>"; };
+		3BBDCAAE19EDA448003C5EE1 /* F. Grammar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "F. Grammar.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BBDCAB219EDA448003C5EE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BBDCAB319EDA448003C5EE1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3BBDCAB519EDA448003C5EE1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3BBDCAB819EDA448003C5EE1 /* LanguagesViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = LanguagesViewController.h; path = FreakingGrammariOS/LanguagesViewController.h; sourceTree = "<group>"; };
+		3BBDCAB919EDA448003C5EE1 /* LanguagesViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = LanguagesViewController.m; path = FreakingGrammariOS/LanguagesViewController.m; sourceTree = "<group>"; };
+		3BBDCABE19EDA448003C5EE1 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		3BBDCAC119EDA448003C5EE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		3BBDCAC719EDA448003C5EE1 /* FreakingGrammariOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FreakingGrammariOSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BBDCACC19EDA448003C5EE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BBDCACD19EDA448003C5EE1 /* FreakingGrammariOSTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FreakingGrammariOSTests.m; sourceTree = "<group>"; };
+		3BEF09DD19EE14F000F243DF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		3BEF09DF19EE152500F243DF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		3BEF09E119EE152E00F243DF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		3BEF09E319F0296D00F243DF /* MenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MenuViewController.h; path = FreakingGrammariOS/MenuViewController.h; sourceTree = "<group>"; };
+		3BEF09E419F0296D00F243DF /* MenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MenuViewController.m; path = FreakingGrammariOS/MenuViewController.m; sourceTree = "<group>"; };
+		3BF9DAD71B3110BC0003297C /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		732A3EF757124624A55EF47C /* libPods-FreakingGrammariOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FreakingGrammariOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		930E4ACCE7755827EE627BC2 /* Pods-FreakingGrammariOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FreakingGrammariOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FreakingGrammariOS/Pods-FreakingGrammariOS.debug.xcconfig"; sourceTree = "<group>"; };
+		9821F4B6ACDB144B52EF279C /* Pods-FreakingGrammariOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FreakingGrammariOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-FreakingGrammariOS/Pods-FreakingGrammariOS.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3BBDCAAB19EDA448003C5EE1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BF9DAD81B3110BC0003297C /* CoreData.framework in Frameworks */,
+				3B61E7761B2D234C0021B03F /* UIKit.framework in Frameworks */,
+				3B39D7491B2145BF00CD95DB /* SystemConfiguration.framework in Frameworks */,
+				3B39D7451B2145B000CD95DB /* Security.framework in Frameworks */,
+				3B61E7741B2D232B0021B03F /* MediaPlayer.framework in Frameworks */,
+				3B61E7721B2D23220021B03F /* CoreText.framework in Frameworks */,
+				3B61E7851B2D347D0021B03F /* GooglePlus.framework in Frameworks */,
+				3B61E7701B2D23190021B03F /* CoreMotion.framework in Frameworks */,
+				3B61E76E1B2D230C0021B03F /* Foundation.framework in Frameworks */,
+				3B61E76C1B2D23020021B03F /* AssetsLibrary.framework in Frameworks */,
+				3B61E76A1B2D22FA0021B03F /* AddressBook.framework in Frameworks */,
+				3B39D75F1B25217B00CD95DB /* Accounts.framework in Frameworks */,
+				3B39D75D1B25217200CD95DB /* Social.framework in Frameworks */,
+				3B39D7431B2145A900CD95DB /* QuartzCore.framework in Frameworks */,
+				3B39D7411B2145A200CD95DB /* MobileCoreServices.framework in Frameworks */,
+				3B39D73F1B21459A00CD95DB /* CoreLocation.framework in Frameworks */,
+				3B39D73D1B21459200CD95DB /* CoreGraphics.framework in Frameworks */,
+				3B39D73B1B21458900CD95DB /* CFNetwork.framework in Frameworks */,
+				3B39D7391B21457800CD95DB /* AudioToolbox.framework in Frameworks */,
+				3B61E77D1B2D23B50021B03F /* GoogleOpenSource.framework in Frameworks */,
+				35D9B4FA9A1E4F70894C12EB /* libPods-FreakingGrammariOS.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BBDCAC419EDA448003C5EE1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3B1862F41BB8864100C352A5 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3BBDCAB819EDA448003C5EE1 /* LanguagesViewController.h */,
+				3BBDCAB919EDA448003C5EE1 /* LanguagesViewController.m */,
+				3BEF09E319F0296D00F243DF /* MenuViewController.h */,
+				3BEF09E419F0296D00F243DF /* MenuViewController.m */,
+				3B39D7551B22403C00CD95DB /* PlayViewController.h */,
+				3B39D7561B22403C00CD95DB /* PlayViewController.m */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		3B1862F51BB8865A00C352A5 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				3B39D76C1B26034600CD95DB /* Sounds */,
+				3B39D7671B25FCCA00CD95DB /* Images */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		3B39D7371B21455A00CD95DB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3BF9DAD71B3110BC0003297C /* CoreData.framework */,
+				3B61E7841B2D347D0021B03F /* GooglePlus.framework */,
+				3B61E77F1B2D23DB0021B03F /* GooglePlus.bundle */,
+				3B61E77B1B2D23B50021B03F /* GoogleOpenSource.framework */,
+				3B61E7751B2D234C0021B03F /* UIKit.framework */,
+				3B61E7731B2D232B0021B03F /* MediaPlayer.framework */,
+				3B61E7711B2D23220021B03F /* CoreText.framework */,
+				3B61E76F1B2D23190021B03F /* CoreMotion.framework */,
+				3B61E76D1B2D230C0021B03F /* Foundation.framework */,
+				3B61E76B1B2D23020021B03F /* AssetsLibrary.framework */,
+				3B61E7691B2D22FA0021B03F /* AddressBook.framework */,
+				3B39D75E1B25217B00CD95DB /* Accounts.framework */,
+				3B39D75C1B25217200CD95DB /* Social.framework */,
+				3B39D7481B2145BF00CD95DB /* SystemConfiguration.framework */,
+				3B39D7441B2145B000CD95DB /* Security.framework */,
+				3B39D7421B2145A900CD95DB /* QuartzCore.framework */,
+				3B39D7401B2145A200CD95DB /* MobileCoreServices.framework */,
+				3B39D73E1B21459A00CD95DB /* CoreLocation.framework */,
+				3B39D73C1B21459200CD95DB /* CoreGraphics.framework */,
+				3B39D73A1B21458900CD95DB /* CFNetwork.framework */,
+				3B39D7381B21457800CD95DB /* AudioToolbox.framework */,
+				732A3EF757124624A55EF47C /* libPods-FreakingGrammariOS.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3B39D74E1B2147D800CD95DB /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				3B39D7521B21488F00CD95DB /* Pregunta.h */,
+				3B39D7531B21488F00CD95DB /* Pregunta.m */,
+				3B39D7581B248B1900CD95DB /* ParejaColor.h */,
+				3B39D7591B248B1900CD95DB /* ParejaColor.m */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		3B39D7671B25FCCA00CD95DB /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				3B61E7631B2D1CB00021B03F /* medalla_icon.png */,
+				3B61E7641B2D1CB00021B03F /* play_icon.png */,
+				3B61E7651B2D1CB00021B03F /* podio_icon.png */,
+				3B39D7681B25FCF700CD95DB /* sound_icon.png */,
+				3B39D7691B25FCF700CD95DB /* sound_off_icon.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		3B39D76C1B26034600CD95DB /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				3B39D76D1B26035300CD95DB /* mal.wav */,
+				3B39D76E1B26035300CD95DB /* paso.wav */,
+			);
+			name = Sounds;
+			sourceTree = "<group>";
+		};
+		3BBDCAA519EDA448003C5EE1 = {
+			isa = PBXGroup;
+			children = (
+				3B1862F41BB8864100C352A5 /* Controllers */,
+				3B1862F51BB8865A00C352A5 /* Resources */,
+				3B39D74E1B2147D800CD95DB /* Models */,
+				3B39D72D1B21309100CD95DB /* Main.storyboard */,
+				3BBDCAB019EDA448003C5EE1 /* FreakingGrammariOS */,
+				3BBDCACA19EDA448003C5EE1 /* FreakingGrammariOSTests */,
+				3BBDCAAF19EDA448003C5EE1 /* Products */,
+				3B39D7371B21455A00CD95DB /* Frameworks */,
+				BB6F1376838F5FE8A645302C /* Pods */,
+			);
+			sourceTree = "<group>";
+		};
+		3BBDCAAF19EDA448003C5EE1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3BBDCAAE19EDA448003C5EE1 /* F. Grammar.app */,
+				3BBDCAC719EDA448003C5EE1 /* FreakingGrammariOSTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3BBDCAB019EDA448003C5EE1 /* FreakingGrammariOS */ = {
+			isa = PBXGroup;
+			children = (
+				3B5C5D091B2F895700012140 /* AppDelegate.m */,
+				3BBDCAB519EDA448003C5EE1 /* AppDelegate.h */,
+				3BBDCABE19EDA448003C5EE1 /* Images.xcassets */,
+				3BBDCAC019EDA448003C5EE1 /* LaunchScreen.xib */,
+				3BBDCAB119EDA448003C5EE1 /* Supporting Files */,
+			);
+			path = FreakingGrammariOS;
+			sourceTree = "<group>";
+		};
+		3BBDCAB119EDA448003C5EE1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3BEF09E019EE152500F243DF /* Localizable.strings */,
+				3B61E7881B2E045D0021B03F /* GPGIds.plist */,
+				3B1862F61BB8896600C352A5 /* GoogleService-Info.plist */,
+				3BBDCAB219EDA448003C5EE1 /* Info.plist */,
+				3BBDCAB319EDA448003C5EE1 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3BBDCACA19EDA448003C5EE1 /* FreakingGrammariOSTests */ = {
+			isa = PBXGroup;
+			children = (
+				3BBDCACD19EDA448003C5EE1 /* FreakingGrammariOSTests.m */,
+				3BBDCACB19EDA448003C5EE1 /* Supporting Files */,
+			);
+			path = FreakingGrammariOSTests;
+			sourceTree = "<group>";
+		};
+		3BBDCACB19EDA448003C5EE1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3BBDCACC19EDA448003C5EE1 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BB6F1376838F5FE8A645302C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				930E4ACCE7755827EE627BC2 /* Pods-FreakingGrammariOS.debug.xcconfig */,
+				9821F4B6ACDB144B52EF279C /* Pods-FreakingGrammariOS.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3BBDCAAD19EDA448003C5EE1 /* FreakingGrammariOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BBDCAD119EDA448003C5EE1 /* Build configuration list for PBXNativeTarget "FreakingGrammariOS" */;
+			buildPhases = (
+				6553FF6B06B94ACA90D1742B /* Check Pods Manifest.lock */,
+				3BBDCAAA19EDA448003C5EE1 /* Sources */,
+				3BBDCAAB19EDA448003C5EE1 /* Frameworks */,
+				3BBDCAAC19EDA448003C5EE1 /* Resources */,
+				340E54C07D384FF982438246 /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FreakingGrammariOS;
+			productName = FreakingGrammariOS;
+			productReference = 3BBDCAAE19EDA448003C5EE1 /* F. Grammar.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3BBDCAC619EDA448003C5EE1 /* FreakingGrammariOSTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BBDCAD419EDA448003C5EE1 /* Build configuration list for PBXNativeTarget "FreakingGrammariOSTests" */;
+			buildPhases = (
+				3BBDCAC319EDA448003C5EE1 /* Sources */,
+				3BBDCAC419EDA448003C5EE1 /* Frameworks */,
+				3BBDCAC519EDA448003C5EE1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3BBDCAC919EDA448003C5EE1 /* PBXTargetDependency */,
+			);
+			name = FreakingGrammariOSTests;
+			productName = FreakingGrammariOSTests;
+			productReference = 3BBDCAC719EDA448003C5EE1 /* FreakingGrammariOSTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3BBDCAA619EDA448003C5EE1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = Peewah;
+				TargetAttributes = {
+					3BBDCAAD19EDA448003C5EE1 = {
+						CreatedOnToolsVersion = 6.0.1;
+						DevelopmentTeam = 82QGWT64DN;
+						SystemCapabilities = {
+							com.apple.InAppPurchase = {
+								enabled = 0;
+							};
+						};
+					};
+					3BBDCAC619EDA448003C5EE1 = {
+						CreatedOnToolsVersion = 6.0.1;
+						TestTargetID = 3BBDCAAD19EDA448003C5EE1;
+					};
+				};
+			};
+			buildConfigurationList = 3BBDCAA919EDA448003C5EE1 /* Build configuration list for PBXProject "FreakingGrammariOS" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3BBDCAA519EDA448003C5EE1;
+			productRefGroup = 3BBDCAAF19EDA448003C5EE1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3BBDCAAD19EDA448003C5EE1 /* FreakingGrammariOS */,
+				3BBDCAC619EDA448003C5EE1 /* FreakingGrammariOSTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3BBDCAAC19EDA448003C5EE1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BEF09DE19EE152500F243DF /* Localizable.strings in Resources */,
+				3B61E7661B2D1CB00021B03F /* medalla_icon.png in Resources */,
+				3B61E7891B2E045D0021B03F /* GPGIds.plist in Resources */,
+				3B61E7671B2D1CB00021B03F /* play_icon.png in Resources */,
+				3B61E7681B2D1CB00021B03F /* podio_icon.png in Resources */,
+				3B39D76A1B25FCF700CD95DB /* sound_icon.png in Resources */,
+				3BBDCAC219EDA448003C5EE1 /* LaunchScreen.xib in Resources */,
+				3BBDCABF19EDA448003C5EE1 /* Images.xcassets in Resources */,
+				3B39D76B1B25FCF700CD95DB /* sound_off_icon.png in Resources */,
+				3B39D76F1B26035300CD95DB /* mal.wav in Resources */,
+				3B39D72F1B21309100CD95DB /* Main.storyboard in Resources */,
+				3B61E7801B2D23DB0021B03F /* GooglePlus.bundle in Resources */,
+				3B39D7701B26035300CD95DB /* paso.wav in Resources */,
+				3B1862F71BB8896600C352A5 /* GoogleService-Info.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BBDCAC519EDA448003C5EE1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		340E54C07D384FF982438246 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FreakingGrammariOS/Pods-FreakingGrammariOS-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6553FF6B06B94ACA90D1742B /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3BBDCAAA19EDA448003C5EE1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B39D75A1B248B1900CD95DB /* ParejaColor.m in Sources */,
+				3BBDCABA19EDA448003C5EE1 /* LanguagesViewController.m in Sources */,
+				3B39D7541B21488F00CD95DB /* Pregunta.m in Sources */,
+				3B5C5D0A1B2F895700012140 /* AppDelegate.m in Sources */,
+				3BBDCAB419EDA448003C5EE1 /* main.m in Sources */,
+				3B39D7571B22403C00CD95DB /* PlayViewController.m in Sources */,
+				3BEF09E519F0296D00F243DF /* MenuViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BBDCAC319EDA448003C5EE1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BBDCACE19EDA448003C5EE1 /* FreakingGrammariOSTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3BBDCAC919EDA448003C5EE1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3BBDCAAD19EDA448003C5EE1 /* FreakingGrammariOS */;
+			targetProxy = 3BBDCAC819EDA448003C5EE1 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3B39D72D1B21309100CD95DB /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3B39D72E1B21309100CD95DB /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3BBDCAC019EDA448003C5EE1 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3BBDCAC119EDA448003C5EE1 /* Base */,
+				3BEF09DD19EE14F000F243DF /* es */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		3BEF09E019EE152500F243DF /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3BEF09DF19EE152500F243DF /* es */,
+				3BEF09E119EE152E00F243DF /* en */,
+			);
+			name = Localizable.strings;
+			path = ..;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3BBDCACF19EDA448003C5EE1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3BBDCAD019EDA448003C5EE1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3BBDCAD219EDA448003C5EE1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 930E4ACCE7755827EE627BC2 /* Pods-FreakingGrammariOS.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = FreakingGrammariOS/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.peewah.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "F. Grammar";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "FreakingGrammariOS-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3BBDCAD319EDA448003C5EE1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9821F4B6ACDB144B52EF279C /* Pods-FreakingGrammariOS.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = FreakingGrammariOS/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.peewah.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "F. Grammar";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "FreakingGrammariOS-Bridging-Header.h";
+			};
+			name = Release;
+		};
+		3BBDCAD519EDA448003C5EE1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = FreakingGrammariOSTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.peewah.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/F. Grammar.app/F. Grammar";
+			};
+			name = Debug;
+		};
+		3BBDCAD619EDA448003C5EE1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = FreakingGrammariOSTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.peewah.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/F. Grammar.app/F. Grammar";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3BBDCAA919EDA448003C5EE1 /* Build configuration list for PBXProject "FreakingGrammariOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BBDCACF19EDA448003C5EE1 /* Debug */,
+				3BBDCAD019EDA448003C5EE1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BBDCAD119EDA448003C5EE1 /* Build configuration list for PBXNativeTarget "FreakingGrammariOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BBDCAD219EDA448003C5EE1 /* Debug */,
+				3BBDCAD319EDA448003C5EE1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BBDCAD419EDA448003C5EE1 /* Build configuration list for PBXNativeTarget "FreakingGrammariOSTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BBDCAD519EDA448003C5EE1 /* Debug */,
+				3BBDCAD619EDA448003C5EE1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3BBDCAA619EDA448003C5EE1 /* Project object */;
+}

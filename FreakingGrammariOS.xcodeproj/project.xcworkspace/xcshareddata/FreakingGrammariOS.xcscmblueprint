@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A48DE9C329FDCFA2018B43391165BD4568E145B5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A48DE9C329FDCFA2018B43391165BD4568E145B5" : 0,
+    "BF82D7C5F2FC089A7AA3E3EBA0CFB287B8EEAB0D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "33E64309-D6A6-4A7F-BF35-095CEA5E8EA3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A48DE9C329FDCFA2018B43391165BD4568E145B5" : "FGiOSPub\/",
+    "BF82D7C5F2FC089A7AA3E3EBA0CFB287B8EEAB0D" : "FreakingGrammariOS"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FreakingGrammariOS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FreakingGrammariOS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Peewah\/FreakingGrammariOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A48DE9C329FDCFA2018B43391165BD4568E145B5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:csacanam\/freakinggrammarios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BF82D7C5F2FC089A7AA3E3EBA0CFB287B8EEAB0D"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{ "results": [
+	{
+        "createdAt": "2015-06-13T01:24:06.812Z",
+        "frase": "Je veux _____ le français aux enfants",
+        "objectId": "1YVnpic0n2",
+        "respuestaBuena": "enseigner",
+        "respuestaMala": "apprendre",
+        "updatedAt": "2015-06-13T01:24:16.247Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:28:39.794Z",
+        "frase": "Nous __________ Pierre dans la rue presque tous les jours",
+        "objectId": "1ZYfIrxQSI",
+        "respuestaBuena": "rencontrons",
+        "respuestaMala": "retrouvons",
+        "updatedAt": "2015-06-13T01:28:49.965Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:26:26.502Z",
+        "frase": "Il faut continuer _______ droit",
+        "objectId": "1u4A70dO3y",
+        "respuestaBuena": "tout",
+        "respuestaMala": "toute",
+        "updatedAt": "2015-06-13T01:26:38.388Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:35:42.355Z",
+        "frase": "Les filles sont _______ jolies aujourd'hui!",
+        "objectId": "2bqg7J6kym",
+        "respuestaBuena": "toutes",
+        "respuestaMala": "tous",
+        "updatedAt": "2015-06-13T01:35:53.801Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:22:28.899Z",
+        "frase": "Leonardo da Vinci __________ la Jaconde",
+        "objectId": "49Ie2guOe9",
+        "respuestaBuena": "a peint",
+        "respuestaMala": "est peint",
+        "updatedAt": "2015-06-13T01:22:41.246Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:27:40.201Z",
+        "frase": "Hier, elle __________ de déménager",
+        "objectId": "4jRMZIOzQ1",
+        "respuestaBuena": "a décidé",
+        "respuestaMala": "est décidé",
+        "updatedAt": "2015-06-13T01:27:55.255Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:04:19.543Z",
+        "frase": "Tu dois ________ ta vie",
+        "objectId": "5Ukx7GGSA4",
+        "respuestaBuena": "est né",
+        "respuestaMala": "a né",
+        "updatedAt": "2015-06-13T01:04:19.806Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:27:04.079Z",
+        "frase": "Notre groupe doit __________ dimanche",
+        "objectId": "7m6OLVDgPK",
+        "respuestaBuena": "se réunir",
+        "respuestaMala": "se retrouver",
+        "updatedAt": "2015-06-13T01:27:15.188Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:34:23.522Z",
+        "frase": "Je vais _____ en Europe l'année prochaine",
+        "objectId": "87fTWLoKdh",
+        "respuestaBuena": "enseigner",
+        "respuestaMala": "apprendre",
+        "updatedAt": "2015-06-13T01:34:33.621Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:25:54.733Z",
+        "frase": "Ce ne sont pas ______ blagues",
+        "objectId": "A84EVfVvYE",
+        "respuestaBuena": "des",
+        "respuestaMala": "de",
+        "updatedAt": "2015-06-13T01:26:02.826Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:25:19.935Z",
+        "frase": "Elle __________ actuellement une taille 32 en chaussures",
+        "objectId": "C36SY2hCq4",
+        "respuestaBuena": "prend",
+        "respuestaMala": "passe",
+        "updatedAt": "2015-06-13T01:25:29.933Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:31:55.356Z",
+        "frase": "J'aimerais bien __________ ici après mes études",
+        "objectId": "CutxNoi0EW",
+        "respuestaBuena": "revenir",
+        "respuestaMala": "rentrer",
+        "updatedAt": "2015-06-13T01:32:05.003Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:17:36.965Z",
+        "frase": "_______ impossible de trouver un bon emploi",
+        "objectId": "DDKv2mmcTU",
+        "respuestaBuena": "Il est",
+        "respuestaMala": "C’est",
+        "updatedAt": "2015-06-13T01:17:49.607Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:18:42.189Z",
+        "frase": "Nous regardons la télé __________ 2 heures",
+        "objectId": "DDq7Lot748",
+        "respuestaBuena": "depuis",
+        "respuestaMala": "dans",
+        "updatedAt": "2015-06-13T01:18:53.509Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:30:31.213Z",
+        "frase": "Vous devez __________ les chaussures avant d'y entrer",
+        "objectId": "DZcgIdIKlA",
+        "respuestaBuena": "enlever",
+        "respuestaMala": "passer",
+        "updatedAt": "2015-06-13T01:30:41.516Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:34:04.017Z",
+        "frase": "Les enfants sont _______ allés à l'école",
+        "objectId": "DbwZqtfQMG",
+        "respuestaBuena": "tous",
+        "respuestaMala": "touts",
+        "updatedAt": "2015-06-13T01:34:16.011Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:29:33.678Z",
+        "frase": "Je dois __________ un examen demain matin",
+        "objectId": "Dl4YTNrPr5",
+        "respuestaBuena": "passer",
+        "respuestaMala": "prendre",
+        "updatedAt": "2015-06-13T01:29:42.350Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:31:21.765Z",
+        "frase": "Luc ________ maintenant la ville",
+        "objectId": "Eks4LRb6tr",
+        "respuestaBuena": "habite",
+        "respuestaMala": "vit",
+        "updatedAt": "2015-06-13T01:31:30.488Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:31:05.032Z",
+        "frase": "Il faut _____ les étudiants pour qu'ils soient polis",
+        "objectId": "FNEb45qekm",
+        "respuestaBuena": "éduquer",
+        "respuestaMala": "apprendre",
+        "updatedAt": "2015-06-13T01:31:14.499Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:24:24.058Z",
+        "frase": "Je ne me sens pas __________",
+        "objectId": "H2XPug1hO9",
+        "respuestaBuena": "bien",
+        "respuestaMala": "bon",
+        "updatedAt": "2015-06-13T01:24:34.604Z"
+    },
+	{
+        "createdAt": "2015-06-13T00:25:25.244Z",
+        "frase": "Mes enfants ________ dans le 21e siècle",
+        "objectId": "H6h0m7QACW",
+        "respuestaBuena": "vivront",
+        "respuestaMala": "habiteront",
+        "updatedAt": "2015-06-13T00:47:16.657Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:33:10.790Z",
+        "frase": "Pierre vient de __________ ta montre",
+        "objectId": "Ir5M9L3eYm",
+        "respuestaBuena": "rendre",
+        "respuestaMala": "renvoyer",
+        "updatedAt": "2015-06-13T01:33:19.708Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:36:01.008Z",
+        "frase": "Hélène, tu dois __________ ici la semaine prochaine",
+        "objectId": "ItJgL2ZS9m",
+        "respuestaBuena": "revenir",
+        "respuestaMala": "rentrer",
+        "updatedAt": "2015-06-13T01:36:12.173Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:29:17.757Z",
+        "frase": "Après des vacances, c'est toujours sympa de __________ en France",
+        "objectId": "J4nK4yMDm3",
+        "respuestaBuena": "rentrer",
+        "respuestaMala": "revenir",
+        "updatedAt": "2015-06-13T01:29:26.585Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:26:10.262Z",
+        "frase": "Qui vas-tu __________ au théâtre?",
+        "objectId": "JLdVJrA8wH",
+        "respuestaBuena": "amener",
+        "respuestaMala": "prendre",
+        "updatedAt": "2015-06-13T01:26:18.441Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:04:33.149Z",
+        "frase": "Ce n'est pas __________ de faire ça",
+        "objectId": "JuGIstGdwX",
+        "respuestaBuena": "bien",
+        "respuestaMala": "bon",
+        "updatedAt": "2015-06-13T01:04:49.289Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:33:26.373Z",
+        "frase": "La __________ visite était meilleure que la troisième",
+        "objectId": "M0CbT3q3XE",
+        "respuestaBuena": "deuxième",
+        "respuestaMala": "seconde",
+        "updatedAt": "2015-06-13T01:33:35.704Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:28:22.384Z",
+        "frase": "Tu peux __________ un ami, si tu veux",
+        "objectId": "O9O40U3vbs",
+        "respuestaBuena": "amener",
+        "respuestaMala": "prendre",
+        "updatedAt": "2015-06-13T01:28:32.177Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:25:37.940Z",
+        "frase": "Ma sœur vient de __________ son mari",
+        "objectId": "PMDEG6UuDE",
+        "respuestaBuena": "quitter",
+        "respuestaMala": "partir",
+        "updatedAt": "2015-06-13T01:25:46.815Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:28:58.327Z",
+        "frase": "Ma sœur va m'_____ à chanter",
+        "objectId": "Pkq3NuU9RP",
+        "respuestaBuena": "apprendre",
+        "respuestaMala": "éduquer",
+        "updatedAt": "2015-06-13T01:29:07.485Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:22:08.894Z",
+        "frase": "Je veux __________ ma sœur",
+        "objectId": "PoUfajhldm",
+        "respuestaBuena": "rendre visite à",
+        "respuestaMala": "visiter",
+        "updatedAt": "2015-06-13T01:22:21.003Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:22:50.391Z",
+        "frase": "Je ne sais pas si ce magasin __________ les chèques",
+        "objectId": "R1O9tkOLnl",
+        "respuestaBuena": "accepte",
+        "respuestaMala": "passe",
+        "updatedAt": "2015-06-13T01:23:01.215Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:19:43.461Z",
+        "frase": "J'aime les __________ dans ce magasin",
+        "objectId": "SOL8J9hqr5",
+        "respuestaBuena": "biens",
+        "respuestaMala": "bons",
+        "updatedAt": "2015-06-13T01:19:53.554Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:34:58.404Z",
+        "frase": "Je vois ton stylo, ________ sur la table",
+        "objectId": "SUUnQqbSl7",
+        "respuestaBuena": "il est",
+        "respuestaMala": "c’est",
+        "updatedAt": "2015-06-13T01:35:13.458Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:32:54.366Z",
+        "frase": "_______ mes amis sont ici",
+        "objectId": "TQyI9eRQYU",
+        "respuestaBuena": "Tous",
+        "respuestaMala": "Tout",
+        "updatedAt": "2015-06-13T01:33:03.632Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:20:47.021Z",
+        "frase": "Pierre a des __________ chaque semaine",
+        "objectId": "UKwJEJGyg9",
+        "respuestaBuena": "invités",
+        "respuestaMala": "visiteurs",
+        "updatedAt": "2015-06-13T01:20:58.733Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:27:22.934Z",
+        "frase": "Quelles sont les idées ______ nouveau membre?",
+        "objectId": "UYEsCFnvxA",
+        "respuestaBuena": "du",
+        "respuestaMala": "de",
+        "updatedAt": "2015-06-13T01:27:32.183Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:36:21.173Z",
+        "frase": "Cette jupe est trop courte - tu dois la __________",
+        "objectId": "UZRpno2iCN",
+        "respuestaBuena": "rapporter",
+        "respuestaMala": "renvoyer",
+        "updatedAt": "2015-06-13T01:36:30.149Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:35:23.941Z",
+        "frase": "Je ne veux pas ________ avec Alice",
+        "objectId": "VNjSO0AtfI",
+        "respuestaBuena": "vivre",
+        "respuestaMala": "habiter",
+        "updatedAt": "2015-06-13T01:35:34.073Z"
+    },
+	{
+        "createdAt": "2015-06-13T00:38:26.033Z",
+        "frase": "Nous pouvons __________ la Tour Eiffel",
+        "objectId": "WANgEzYMDH",
+        "respuestaBuena": "visiter",
+        "respuestaMala": "aller voir",
+        "updatedAt": "2015-06-13T00:38:38.653Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:33:43.865Z",
+        "frase": "________ le présent!",
+        "objectId": "XQ7uriPugW",
+        "respuestaBuena": "Habitons",
+        "respuestaMala": "Vivons",
+        "updatedAt": "2015-06-13T01:33:55.406Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:36:44.948Z",
+        "frase": "L'année prochaine, je serai en Italie __________ un mois",
+        "objectId": "anpHezoucP",
+        "respuestaBuena": "pendant",
+        "respuestaMala": "depuis",
+        "updatedAt": "2015-06-13T01:36:55.562Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:31:38.048Z",
+        "frase": "Je __________ qu'il est francophone",
+        "objectId": "caWLT59efZ",
+        "respuestaBuena": "sais",
+        "respuestaMala": "connais",
+        "updatedAt": "2015-06-13T01:31:47.877Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:29:52.803Z",
+        "frase": "Il m'a dit de __________ les devoirs dans son bureau",
+        "objectId": "i81mIZw5r8",
+        "respuestaBuena": "laisser",
+        "respuestaMala": "quitter",
+        "updatedAt": "2015-06-13T01:30:00.509Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:32:12.161Z",
+        "frase": "Je suis __________ menteur",
+        "objectId": "jlMHRzgFR4",
+        "respuestaBuena": "mauvais",
+        "respuestaMala": "mal",
+        "updatedAt": "2015-06-13T01:32:20.915Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:17:59.527Z",
+        "frase": "Nous aimons _____ les adultes",
+        "objectId": "jojswWFWVd",
+        "respuestaBuena": "instruire",
+        "respuestaMala": "enseigner",
+        "updatedAt": "2015-06-13T01:18:12.268Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:04:59.600Z",
+        "frase": "Voici Jean-Paul. ________ étudiant en chimie",
+        "objectId": "jzcufXks3J",
+        "respuestaBuena": "Il est",
+        "respuestaMala": "Elle est",
+        "updatedAt": "2015-06-13T01:17:28.132Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:26:46.647Z",
+        "frase": "Elle va __________ aujourd'hui",
+        "objectId": "kGyZaL34lh",
+        "respuestaBuena": "mal",
+        "respuestaMala": "mauvais",
+        "updatedAt": "2015-06-13T01:26:55.575Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:24:44.071Z",
+        "frase": "Il a ________ des jours difficiles",
+        "objectId": "kJu7ui2zSO",
+        "respuestaBuena": "vécu",
+        "respuestaMala": "habité",
+        "updatedAt": "2015-06-13T01:24:53.552Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:32:35.804Z",
+        "frase": "__________-vous Haïti?",
+        "objectId": "lFEoGYwuS2",
+        "respuestaBuena": "Connaissez",
+        "respuestaMala": "Savez",
+        "updatedAt": "2015-06-13T01:32:45.071Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:21:47.468Z",
+        "frase": "C'est un article __________ qualité",
+        "objectId": "mluElHNqiY",
+        "respuestaBuena": "de première",
+        "respuestaMala": "au première",
+        "updatedAt": "2015-06-13T01:22:00.577Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:20:24.754Z",
+        "frase": "Mes sœurs __________ un bon cinéma",
+        "objectId": "oVDI0D6xUq",
+        "respuestaBuena": "connaissent",
+        "respuestaMala": "savent",
+        "updatedAt": "2015-06-13T01:20:36.783Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:21:25.146Z",
+        "frase": "Qui est à la porte ? ________ Chantal",
+        "objectId": "olzGs6ZO6k",
+        "respuestaBuena": "C'est",
+        "respuestaMala": "Il est",
+        "updatedAt": "2015-06-13T01:21:38.608Z"
+    },
+	{
+        "createdAt": "2015-06-13T00:25:03.948Z",
+        "frase": "Un __________ du repas est prêt",
+        "objectId": "rleRlxlWzX",
+        "respuestaBuena": "tiers",
+        "respuestaMala": "troisième",
+        "updatedAt": "2015-06-13T00:25:15.563Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:25:01.985Z",
+        "frase": "Je lui ai donné pas mal ______ pommes de terre de notre jardin",
+        "objectId": "sGNbeV9CHV",
+        "respuestaBuena": "des",
+        "respuestaMala": "de",
+        "updatedAt": "2015-06-13T01:25:11.230Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:37:05.530Z",
+        "frase": "Il n'a pas parlé pendant _______ la journée",
+        "objectId": "tqzC3OaoLU",
+        "respuestaBuena": "toute",
+        "respuestaMala": "toutes",
+        "updatedAt": "2015-06-13T01:37:21.145Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:30:10.142Z",
+        "frase": "Je __________ Céline Dion",
+        "objectId": "twViyEV28d",
+        "respuestaBuena": "connais",
+        "respuestaMala": "sais",
+        "updatedAt": "2015-06-13T01:30:19.270Z"
+    },
+	{
+        "createdAt": "2015-06-13T00:39:56.150Z",
+        "frase": "Ma maison est _______ près d'ici",
+        "objectId": "u5mPs1DyBR",
+        "respuestaBuena": "tout",
+        "respuestaMala": "toute",
+        "updatedAt": "2015-06-13T00:40:06.308Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:23:11.647Z",
+        "frase": "Nous __________ toutes les pièces de Molière",
+        "objectId": "udlfQKOuPM",
+        "respuestaBuena": "connaissons",
+        "respuestaMala": "savons",
+        "updatedAt": "2015-06-13T01:23:21.941Z"
+    },
+	{
+        "createdAt": "2015-06-13T00:38:07.658Z",
+        "frase": "Paul va arriver __________ 2 semaines",
+        "objectId": "usWry3QYaK",
+        "respuestaBuena": "dans",
+        "respuestaMala": "en",
+        "updatedAt": "2015-06-13T00:38:18.025Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:23:29.453Z",
+        "frase": "En ce moment, il y a trop ______ difficultés",
+        "objectId": "wRgiQQpOKs",
+        "respuestaBuena": "de",
+        "respuestaMala": "du",
+        "updatedAt": "2015-06-13T01:23:40.131Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:18:21.032Z",
+        "frase": "J'espère vous __________ avant le cours",
+        "objectId": "y9oUT1mXR2",
+        "respuestaBuena": "retrouver",
+        "respuestaMala": "rencontrer",
+        "updatedAt": "2015-06-13T01:18:33.632Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:20:01.724Z",
+        "frase": "Cet homme-là, ________ soldat",
+        "objectId": "yE6W8pn4Cf",
+        "respuestaBuena": "il est",
+        "respuestaMala": "c’est",
+        "updatedAt": "2015-06-13T01:20:15.801Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:19:01.671Z",
+        "frase": "Nous avons __________ un taxi à la gare",
+        "objectId": "yR514X8mhu",
+        "respuestaBuena": "pris",
+        "respuestaMala": "passé",
+        "updatedAt": "2015-06-13T01:19:11.456Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:19:20.744Z",
+        "frase": "Félicitations - vous êtes venu __________ position!",
+        "objectId": "yga3EtsPTc",
+        "respuestaBuena": "en première",
+        "respuestaMala": "au première",
+        "updatedAt": "2015-06-13T01:19:34.623Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:21:06.367Z",
+        "frase": "Où est la voiture ______ Valérie?",
+        "objectId": "zEgUJFXCdj",
+        "respuestaBuena": "de",
+        "respuestaMala": "du",
+        "updatedAt": "2015-06-13T01:21:16.368Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:30:48.768Z",
+        "frase": "Savez-vous qui vous a __________ votre sac à main?",
+        "objectId": "zXuXqNBx5K",
+        "respuestaBuena": "tiré",
+        "respuestaMala": "pris",
+        "updatedAt": "2015-06-13T01:30:57.850Z"
+    },
+	{
+        "createdAt": "2015-06-13T01:23:49.836Z",
+        "frase": "Nous avons fait un bénéfice pendant le quatrième __________",
+        "objectId": "zs1KeI8EZU",
+        "respuestaBuena": "trimestre",
+        "respuestaMala": "quart",
+        "updatedAt": "2015-06-13T01:23:59.389Z"
+    }
+] }
